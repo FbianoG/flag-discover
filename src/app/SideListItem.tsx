@@ -18,8 +18,8 @@ const SideListItem = ({ contry }: Props) => {
 			className='hover:border-border group cursor-default border-b border-transparent bg-white p-1 duration-300'>
 			<p className='duration-300 group-hover:opacity-70'>{contry.country}</p>
 			{showFlag && (
-				<div className='absolute top-1/2 left-[105%] h-[200px] w-[300px] -translate-y-1/2 bg-white'>
-					<Image loading='lazy' fill alt='' src={`/svg/${contry?.code}.svg`} className='hidden border md:block' />
+				<div className='h-[200px] w-full translate-y-0 bg-white md:absolute md:top-1/2 md:left-[105%] md:w-[300px] md:-translate-y-1/2'>
+					<Image loading='lazy' fill alt='' src={`/svg/${contry?.code}.svg`} className='border' />
 				</div>
 			)}
 		</li>
