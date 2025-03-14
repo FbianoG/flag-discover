@@ -6,12 +6,11 @@ import { useState } from 'react';
 import { CiCircleList } from 'react-icons/ci';
 import { TfiClose } from 'react-icons/tfi';
 import SideListItem from './SideListItem';
+import useCountriesStore from '@/store/countriesStores';
 
-interface Props {
-	contries?: { code: string; country: string }[];
-}
+const SideList = () => {
+	const { countries } = useCountriesStore();
 
-const SideList = ({ contries }: Props) => {
 	const [showList, setShowList] = useState<boolean>(false);
 
 	return (
@@ -31,7 +30,9 @@ const SideList = ({ contries }: Props) => {
 				</button>
 
 				<h3 className='text-primary text-lg font-medium'>Lista de Paises</h3>
-				<ul className='mt-4 h-[calc(100vh-65px)] overflow-auto pr-1'>{contries?.map((contry, index) => <SideListItem key={index + contry.code} contry={contry} />)}</ul>
+				<ul className='mt-4 h-[calc(100vh-65px)] overflow-auto pr-1'>
+					{countries?.map((country, index) => <SideListItem key={index + country.code} country={country} />)}
+				</ul>
 			</div>
 		</>
 	);

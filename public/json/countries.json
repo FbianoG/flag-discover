@@ -1,0 +1,2378 @@
+[
+	{
+		"code": "AD",
+		"country": "Andorra",
+		"details": {
+			"population": 79000,
+			"area": 468,
+			"gdp": 3660,
+			"capital": "Andorra la Vella",
+			"continent": "Europa",
+			"description": "Pequeno país europeu localizado nos Pirineus, entre a França e a Espanha. É conhecido por suas estações de esqui e comércio livre de impostos."
+		}
+	},
+	{
+		"code": "AE",
+		"country": "Emirados Árabes Unidos",
+		"details": {
+			"population": 9890000,
+			"area": 83600,
+			"gdp": 501000.3,
+			"capital": "Abu Dhabi",
+			"continent": "Ásia",
+			"description": "País do Oriente Médio conhecido por seu rápido desenvolvimento, arquitetura moderna, petróleo e cidades como Dubai e Abu Dhabi."
+		}
+	},
+	{
+		"code": "AF",
+		"country": "Afeganistão",
+		"details": {
+			"population": 38928000,
+			"area": 652230,
+			"gdp": 19000.81,
+			"capital": "Cabul",
+			"continent": "Ásia",
+			"description": "País da Ásia Central com uma história rica, mas marcado por conflitos e desafios econômicos."
+		}
+	},
+	{
+		"code": "AG",
+		"country": "Antígua e Barbuda",
+		"details": {
+			"population": 98000,
+			"area": 442,
+			"gdp": 1600,
+			"capital": "Saint John's",
+			"continent": "América",
+			"description": "Uma nação insular do Caribe conhecida por suas belas praias e turismo."
+		}
+	},
+	{
+		"code": "AI",
+		"country": "Anguila",
+		"details": {
+			"population": 15000,
+			"area": 91,
+			"gdp": 300,
+			"capital": "The Valley",
+			"continent": "América",
+			"description": "Pequeno território britânico no Caribe, famoso por suas praias paradisíacas."
+		}
+	},
+	{
+		"code": "AL",
+		"country": "Albânia",
+		"details": {
+			"population": 2878000,
+			"area": 28748,
+			"gdp": 15100,
+			"capital": "Tirana",
+			"continent": "Europa",
+			"description": "País do sudeste da Europa com rica cultura e belas paisagens montanhosas e costeiras."
+		}
+	},
+	{
+		"code": "AM",
+		"country": "Armênia",
+		"details": {
+			"population": 2963000,
+			"area": 29743,
+			"gdp": 13700,
+			"capital": "Erevã",
+			"continent": "Ásia",
+			"description": "País do Cáucaso com uma das mais antigas civilizações cristãs do mundo."
+		}
+	},
+	{
+		"code": "AO",
+		"country": "Angola",
+		"details": {
+			"population": 32870000,
+			"area": 1246700,
+			"gdp": 94600,
+			"capital": "Luanda",
+			"continent": "África",
+			"description": "País africano rico em recursos naturais, incluindo petróleo e diamantes."
+		}
+	},
+	{
+		"code": "AQ",
+		"country": "Antártida",
+		"details": {
+			"population": 1000,
+			"area": 14000000,
+			"gdp": 0,
+			"capital": "N/A",
+			"continent": "Antártida",
+			"description": "Continente gelado sem população residente permanente, usado principalmente para pesquisa científica."
+		}
+	},
+	{
+		"code": "AR",
+		"country": "Argentina",
+		"details": {
+			"population": 45380000,
+			"area": 2780400,
+			"gdp": 450400,
+			"capital": "Buenos Aires",
+			"continent": "América",
+			"description": "País sul-americano famoso por sua cultura vibrante, futebol e paisagens naturais diversas."
+		}
+	},
+	{
+		"code": "AS",
+		"country": "Samoa Americana",
+		"details": {
+			"population": 55000,
+			"area": 199,
+			"gdp": 634,
+			"capital": "Pago Pago",
+			"continent": "Oceania",
+			"description": "Território não incorporado dos Estados Unidos localizado no Pacífico Sul."
+		}
+	},
+	{
+		"code": "AT",
+		"country": "Áustria",
+		"details": {
+			"population": 8902600,
+			"area": 83871,
+			"gdp": 446300,
+			"capital": "Viena",
+			"continent": "Europa",
+			"description": "País europeu famoso por sua música clássica, cultura e paisagens alpinas."
+		}
+	},
+	{
+		"code": "AU",
+		"country": "Austrália",
+		"details": {
+			"population": 25690000,
+			"area": 7692024,
+			"gdp": 1380000,
+			"capital": "Camberra",
+			"continent": "Oceania",
+			"description": "País e continente conhecido por sua biodiversidade única, cidades modernas e praias icônicas."
+		}
+	},
+	{
+		"code": "AW",
+		"country": "Aruba",
+		"details": {
+			"population": 106000,
+			"area": 180,
+			"gdp": 2850,
+			"capital": "Oranjestad",
+			"continent": "América",
+			"description": "Pequena ilha caribenha famosa por suas praias e turismo."
+		}
+	},
+	{
+		"code": "AX",
+		"country": "Ilhas Åland",
+		"details": {
+			"population": 30000,
+			"area": 1580,
+			"gdp": 1900,
+			"capital": "Mariehamn",
+			"continent": "Europa",
+			"description": "Arquipélago autônomo pertencente à Finlândia, localizado no Mar Báltico."
+		}
+	},
+	{
+		"code": "AZ",
+		"country": "Azerbaijão",
+		"details": {
+			"population": 10140000,
+			"area": 86600,
+			"gdp": 54600,
+			"capital": "Baku",
+			"continent": "Ásia",
+			"description": "País do Cáucaso rico em petróleo, com arquitetura moderna e cultura única."
+		}
+	},
+	{
+		"code": "BA",
+		"country": "Bósnia e Herzegovina",
+		"details": {
+			"population": 3280819,
+			"area": 51209,
+			"gdp": 1968000,
+			"capital": "Sarajevo",
+			"continent": "Europa",
+			"description": "A Bósnia e Herzegovina é um país localizado no sudeste da Europa, nos Balcãs, com uma história marcada por conflitos e uma rica diversidade cultural."
+		}
+	},
+	{
+		"code": "BB",
+		"country": "Barbados",
+		"details": {
+			"population": 287371,
+			"area": 430,
+			"gdp": 502100,
+			"capital": "Bridgetown",
+			"continent": "América",
+			"description": "Barbados é uma ilha caribenha famosa por suas belas praias, clima tropical e uma economia voltada para o turismo."
+		}
+	},
+	{
+		"code": "BD",
+		"country": "Bangladesh",
+		"details": {
+			"population": 163046161,
+			"area": 147570,
+			"gdp": 36810,
+			"capital": "Dhaka",
+			"continent": "Ásia",
+			"description": "Bangladesh é um país densamente populado, com uma economia em crescimento e uma rica cultura, embora enfrente desafios significativos em termos de pobreza e desastres naturais."
+		}
+	},
+	{
+		"code": "BE",
+		"country": "Bélgica",
+		"details": {
+			"population": 11589623,
+			"area": 30528,
+			"gdp": 58100,
+			"capital": "Bruxelas",
+			"continent": "Europa",
+			"description": "A Bélgica é um país europeu com uma forte economia e rica história, conhecida por suas instituições europeias e diversidade cultural."
+		}
+	},
+	{
+		"code": "BF",
+		"country": "Burquina Faso",
+		"details": {
+			"population": 23107060,
+			"area": 272967,
+			"gdp": 1538,
+			"capital": "Ouagadougou",
+			"continent": "África",
+			"description": "Burquina Faso é um país da África Ocidental, conhecido por suas paisagens secas e sua cultura vibrante, embora enfrente desafios econômicos e políticos."
+		}
+	},
+	{
+		"code": "BG",
+		"country": "Bulgária",
+		"details": {
+			"population": 6901482,
+			"area": 110879,
+			"gdp": 23460,
+			"capital": "Sofia",
+			"continent": "Europa",
+			"description": "A Bulgária, no sudeste da Europa, tem uma rica história que remonta ao Império Romano e Bizantino, com belas paisagens e uma economia em desenvolvimento."
+		}
+	},
+	{
+		"code": "BH",
+		"country": "Bahrein",
+		"details": {
+			"population": 1701583,
+			"area": 765,
+			"gdp": 46960,
+			"capital": "Manama",
+			"continent": "Ásia",
+			"description": "O Bahrein é um pequeno reino insular do Golfo Pérsico, conhecido por seu setor financeiro e petróleo, além de sua mistura cultural de tradições árabes e influências ocidentais."
+		}
+	},
+	{
+		"code": "BI",
+		"country": "Burundi",
+		"details": {
+			"population": 12717608,
+			"area": 27834,
+			"gdp": 771,
+			"capital": "Gitega",
+			"continent": "África",
+			"description": "Burundi é um dos países mais pobres da África, com uma população majoritariamente rural e uma história de conflitos étnicos."
+		}
+	},
+	{
+		"code": "BJ",
+		"country": "Benim",
+		"details": {
+			"population": 12631100,
+			"area": 112622,
+			"gdp": 1050,
+			"capital": "Cotonou",
+			"continent": "África",
+			"description": "Benim é um país da África Ocidental, com uma economia baseada principalmente na agricultura, conhecido por sua história rica e conexões com o comércio de escravos."
+		}
+	},
+	{
+		"code": "BL",
+		"country": "São Bartolomeu",
+		"details": {
+			"population": 9877,
+			"area": 25,
+			"gdp": 0,
+			"capital": "Gustavia",
+			"continent": "América",
+			"description": "São Bartolomeu é uma pequena ilha caribenha, famosa por ser um destino turístico de luxo, com praias exóticas e uma população predominantemente de origem francesa."
+		}
+	},
+	{
+		"code": "BM",
+		"country": "Bermudas",
+		"details": {
+			"population": 64027,
+			"area": 53.3,
+			"gdp": 70900,
+			"capital": "Hamilton",
+			"continent": "América",
+			"description": "Bermudas é um território britânico no Atlântico Norte, famoso por suas praias e pelo setor financeiro robusto."
+		}
+	},
+	{
+		"code": "BN",
+		"country": "Brunei",
+		"details": {
+			"population": 443000,
+			"area": 5765,
+			"gdp": 80300,
+			"capital": "Bandar Seri Begawan",
+			"continent": "Ásia",
+			"description": "Brunei é um pequeno país rico em petróleo e gás, localizado na ilha de Bornéu, conhecido por seu governo absolutista e forte economia."
+		}
+	},
+	{
+		"code": "BO",
+		"country": "Bolívia",
+		"details": {
+			"population": 11673021,
+			"area": 1098581,
+			"gdp": 45200,
+			"capital": "Sucre",
+			"continent": "América",
+			"description": "A Bolívia é um país da América do Sul, com uma economia em desenvolvimento, rica cultura indígena e paisagens que variam de altas montanhas a florestas tropicais."
+		}
+	},
+	{
+		"code": "BQ",
+		"country": "Países Baixos Caribenhos",
+		"details": {
+			"population": 25000,
+			"area": 330,
+			"gdp": 0,
+			"capital": "Kralendijk",
+			"continent": "América",
+			"description": "Os Países Baixos Caribenhos são um conjunto de ilhas no Caribe, que fazem parte do Reino dos Países Baixos, com uma economia voltada para o turismo."
+		}
+	},
+	{
+		"code": "BR",
+		"country": "Brasil",
+		"details": {
+			"population": 213993437,
+			"area": 8515767,
+			"gdp": 2055000,
+			"capital": "Brasília",
+			"continent": "América",
+			"description": "O Brasil é o maior país da América do Sul, com uma economia diversificada, uma rica biodiversidade e uma cultura vibrante."
+		}
+	},
+	{
+		"code": "BS",
+		"country": "Bahamas",
+		"details": {
+			"population": 393248,
+			"area": 13940,
+			"gdp": 14000,
+			"capital": "Nassau",
+			"continent": "América",
+			"description": "As Bahamas são um arquipélago caribenho conhecido por suas praias paradisíacas, sendo um destino turístico popular e com uma economia baseada em turismo e serviços financeiros."
+		}
+	},
+	{
+		"code": "BT",
+		"country": "Butão",
+		"details": {
+			"population": 754394,
+			"area": 38394,
+			"gdp": 3000,
+			"capital": "Thimphu",
+			"continent": "Ásia",
+			"description": "O Butão é um pequeno reino no Himalaia, conhecido por seu índice de felicidade nacional, práticas de preservação ambiental e cultura budista."
+		}
+	},
+	{
+		"code": "BV",
+		"country": "Ilha Bouvet",
+		"details": {
+			"population": 0,
+			"area": 49,
+			"gdp": 0,
+			"capital": "Nenhuma",
+			"continent": "Antártica",
+			"description": "A Ilha Bouvet é uma pequena ilha desabitada no Oceano Atlântico, um território dependente da Noruega, sem uma população permanente."
+		}
+	},
+	{
+		"code": "BW",
+		"country": "Botsuana",
+		"details": {
+			"population": 2141206,
+			"area": 581730,
+			"gdp": 19600,
+			"capital": "Gaborone",
+			"continent": "África",
+			"description": "Botsuana é um país da África Austral conhecido por sua economia estável, grandes reservas de diamantes e parques naturais com vida selvagem."
+		}
+	},
+	{
+		"code": "BY",
+		"country": "Bielorrússia",
+		"details": {
+			"population": 9449323,
+			"area": 207600,
+			"gdp": 718800,
+			"capital": "Minsk",
+			"continent": "Europa",
+			"description": "A Bielorrússia, localizada no Leste Europeu, tem uma economia centrada no setor industrial e é conhecida por sua história soviética e regime político autoritário."
+		}
+	},
+	{
+		"code": "BZ",
+		"country": "Belize",
+		"details": {
+			"population": 423000,
+			"area": 22966,
+			"gdp": 3060,
+			"capital": "Belmopan",
+			"continent": "América",
+			"description": "Belize é um país da América Central conhecido por suas praias tropicais, ruínas maias e rica biodiversidade, com uma economia baseada no turismo e na agricultura."
+		}
+	},
+	{
+		"code": "CA",
+		"country": "Canadá",
+		"details": {
+			"population": 38008005,
+			"area": 9984670,
+			"gdp": 2144000,
+			"capital": "Ottawa",
+			"continent": "América",
+			"description": "O Canadá é o segundo maior país do mundo, conhecido por sua paisagem diversificada, rica em recursos naturais e com uma economia forte e desenvolvida."
+		}
+	},
+	{
+		"code": "CC",
+		"country": "Ilhas Cocos (Keeling)",
+		"details": {
+			"population": 600,
+			"area": 14,
+			"gdp": 0,
+			"capital": "West Island",
+			"continent": "Oceania",
+			"description": "As Ilhas Cocos (Keeling) são um território australiano no Oceano Índico, conhecido por suas paisagens tropicais e uma população pequena, dependente principalmente de turismo."
+		}
+	},
+	{
+		"code": "CD",
+		"country": "República Democrática do Congo",
+		"details": {
+			"population": 101920000,
+			"area": 2344858,
+			"gdp": 66380,
+			"capital": "Kinshasa",
+			"continent": "África",
+			"description": "A República Democrática do Congo é o maior país da África Central, rico em recursos naturais, mas com uma história de conflitos e desafios econômicos."
+		}
+	},
+	{
+		"code": "CF",
+		"country": "República Centro-Africana",
+		"details": {
+			"population": 4998000,
+			"area": 622984,
+			"gdp": 2687,
+			"capital": "Bangui",
+			"continent": "África",
+			"description": "A República Centro-Africana é um país da África Central, marcado por conflitos internos e uma economia muito dependente da agricultura."
+		}
+	},
+	{
+		"code": "CG",
+		"country": "República do Congo",
+		"details": {
+			"population": 4741000,
+			"area": 342000,
+			"gdp": 11000,
+			"capital": "Brazzaville",
+			"continent": "África",
+			"description": "A República do Congo é um país da África Central, conhecido por suas florestas tropicais, indústria de petróleo e uma economia em crescimento, apesar de desafios políticos."
+		}
+	},
+	{
+		"code": "CH",
+		"country": "Suíça",
+		"details": {
+			"population": 8770000,
+			"area": 41285,
+			"gdp": 890000,
+			"capital": "Berna",
+			"continent": "Europa",
+			"description": "A Suíça é um país montanhoso na Europa Central, famoso por sua neutralidade política, setor bancário forte, e paisagens deslumbrantes."
+		}
+	},
+	{
+		"code": "CI",
+		"country": "Costa do Marfim",
+		"details": {
+			"population": 26450000,
+			"area": 322463,
+			"gdp": 78200,
+			"capital": "Yamoussoukro",
+			"continent": "África",
+			"description": "Costa do Marfim é um país da África Ocidental, com uma economia baseada principalmente na agricultura, especialmente na produção de cacau e café."
+		}
+	},
+	{
+		"code": "CK",
+		"country": "Ilhas Cook",
+		"details": {
+			"population": 17000,
+			"area": 236,
+			"gdp": 0,
+			"capital": "Avarua",
+			"continent": "Oceania",
+			"description": "As Ilhas Cook são um território autônomo associado à Nova Zelândia, conhecidas por suas praias tropicais e economia dependente do turismo e remessas."
+		}
+	},
+	{
+		"code": "CL",
+		"country": "Chile",
+		"details": {
+			"population": 19116209,
+			"area": 756102,
+			"gdp": 335700,
+			"capital": "Santiago",
+			"continent": "América",
+			"description": "O Chile é um país longo e estreito na América do Sul, conhecido por sua economia estável, vinhedos famosos e uma rica diversidade geográfica."
+		}
+	},
+	{
+		"code": "CM",
+		"country": "Camarões",
+		"details": {
+			"population": 22709892,
+			"area": 475442,
+			"gdp": 49000,
+			"capital": "Yaoundé",
+			"continent": "África",
+			"description": "Camarões é um país da África Central, conhecido por sua diversidade étnica, paisagens variadas e uma economia que inclui petróleo, agricultura e mineração."
+		}
+	},
+	{
+		"code": "CN",
+		"country": "China",
+		"details": {
+			"population": 1411778724,
+			"area": 9596961,
+			"gdp": 17740000,
+			"capital": "Pequim",
+			"continent": "Ásia",
+			"description": "A China é o país mais populoso e uma das maiores economias do mundo, com um papel central na política e economia globais."
+		}
+	},
+	{
+		"code": "CO",
+		"country": "Colômbia",
+		"details": {
+			"population": 50882891,
+			"area": 1141748,
+			"gdp": 363000,
+			"capital": "Bogotá",
+			"continent": "América",
+			"description": "A Colômbia é um país da América do Sul, conhecida por sua produção de café, sua diversidade cultural e por ser um importante polo econômico da região."
+		}
+	},
+	{
+		"code": "CR",
+		"country": "Costa Rica",
+		"details": {
+			"population": 5094114,
+			"area": 51100,
+			"gdp": 86800,
+			"capital": "San José",
+			"continent": "América",
+			"description": "A Costa Rica é um país da América Central, famoso por sua biodiversidade, políticas ambientais avançadas e uma economia voltada para o ecoturismo."
+		}
+	},
+	{
+		"code": "CU",
+		"country": "Cuba",
+		"details": {
+			"population": 11326616,
+			"area": 109884,
+			"gdp": 10500,
+			"capital": "Havana",
+			"continent": "América",
+			"description": "Cuba é uma ilha caribenha com uma história política única, conhecida por sua cultura vibrante, música e arte, além de uma economia socialista centralizada."
+		}
+	},
+	{
+		"code": "CV",
+		"country": "Cabo Verde",
+		"details": {
+			"population": 531239,
+			"area": 4033,
+			"gdp": 2300,
+			"capital": "Praia",
+			"continent": "África",
+			"description": "Cabo Verde é um arquipélago no Oceano Atlântico, conhecido por sua rica cultura musical, clima tropical e uma economia dependente do turismo."
+		}
+	},
+	{
+		"code": "CW",
+		"country": "Curaçao",
+		"details": {
+			"population": 164100,
+			"area": 444,
+			"gdp": 0,
+			"capital": "Willemstad",
+			"continent": "América",
+			"description": "Curaçao é uma ilha caribenha, território autônomo dos Países Baixos, famosa por suas praias, clima tropical e um setor turístico em crescimento."
+		}
+	},
+	{
+		"code": "CX",
+		"country": "Ilha Christmas",
+		"details": {
+			"population": 1500,
+			"area": 135,
+			"gdp": 0,
+			"capital": "Flying Fish Cove",
+			"continent": "Oceania",
+			"description": "A Ilha Christmas é um território australiano no Oceano Índico, conhecido por suas populações de cangurus e aves migratórias, além de ser uma ilha remota."
+		}
+	},
+	{
+		"code": "CY",
+		"country": "Chipre",
+		"details": {
+			"population": 1207359,
+			"area": 9251,
+			"gdp": 33000,
+			"capital": "Nicósia",
+			"continent": "Europa",
+			"description": "Chipre é uma ilha no Mediterrâneo, com uma cultura rica e uma história marcada por conflitos e influências de várias civilizações ao longo dos séculos."
+		}
+	},
+	{
+		"code": "CZ",
+		"country": "República Tcheca",
+		"details": {
+			"population": 10649800,
+			"area": 78866,
+			"gdp": 343400,
+			"capital": "Praga",
+			"continent": "Europa",
+			"description": "A República Tcheca é um país no coração da Europa, conhecido por sua arquitetura histórica, excelente cerveja e uma economia altamente desenvolvida."
+		}
+	},
+	{
+		"code": "DE",
+		"country": "Alemanha",
+		"details": {
+			"population": 83166711,
+			"area": 357022,
+			"gdp": 4840000,
+			"capital": "Berlim",
+			"continent": "Europa",
+			"description": "A Alemanha é uma das maiores economias do mundo, com uma indústria altamente desenvolvida, um setor financeiro forte e uma posição de liderança na União Europeia."
+		}
+	},
+	{
+		"code": "DJ",
+		"country": "Djibuti",
+		"details": {
+			"population": 900000,
+			"area": 23200,
+			"gdp": 1300,
+			"capital": "Djibuti",
+			"continent": "África",
+			"description": "Djibuti é um pequeno país localizado na região do Chifre da África, conhecido por sua localização estratégica no Golfo de Áden e pelo porto movimentado."
+		}
+	},
+	{
+		"code": "DK",
+		"country": "Dinamarca",
+		"details": {
+			"population": 5818553,
+			"area": 42933,
+			"gdp": 407000,
+			"capital": "Copenhague",
+			"continent": "Europa",
+			"description": "A Dinamarca é um país nórdico, conhecido por sua alta qualidade de vida, políticas sociais avançadas, e uma economia robusta, com foco em sustentabilidade e inovação."
+		}
+	},
+	{
+		"code": "DM",
+		"country": "Dominica",
+		"details": {
+			"population": 71808,
+			"area": 751,
+			"gdp": 500,
+			"capital": "Roseau",
+			"continent": "América",
+			"description": "Dominica é uma pequena ilha no Caribe, famosa por suas paisagens naturais exuberantes, incluindo cachoeiras e vulcões, além de uma economia baseada no turismo e agricultura."
+		}
+	},
+	{
+		"code": "DO",
+		"country": "República Dominicana",
+		"details": {
+			"population": 10847904,
+			"area": 48730,
+			"gdp": 12150,
+			"capital": "Santo Domingo",
+			"continent": "América",
+			"description": "A República Dominicana ocupa a parte oriental da ilha Hispaniola no Caribe e é conhecida por suas praias, resorts turísticos, e uma economia que depende principalmente do turismo."
+		}
+	},
+	{
+		"code": "DZ",
+		"country": "Argélia",
+		"details": {
+			"population": 43851044,
+			"area": 2381741,
+			"gdp": 245000,
+			"capital": "Argel",
+			"continent": "África",
+			"description": "A Argélia é o maior país da África, com uma economia fortemente baseada no petróleo e gás, e uma história marcada por uma luta pela independência contra a França."
+		}
+	},
+	{
+		"code": "EC",
+		"country": "Equador",
+		"details": {
+			"population": 17300000,
+			"area": 283561,
+			"gdp": 118700,
+			"capital": "Quito",
+			"continent": "América",
+			"description": "O Equador é um país localizado na América do Sul, conhecido por sua biodiversidade, incluindo as Ilhas Galápagos, e sua economia baseada na exportação de petróleo e produtos agrícolas."
+		}
+	},
+	{
+		"code": "EE",
+		"country": "Estônia",
+		"details": {
+			"population": 1326535,
+			"area": 45227,
+			"gdp": 41000,
+			"capital": "Tallinn",
+			"continent": "Europa",
+			"description": "A Estônia é um país no norte da Europa, conhecido por sua tecnologia avançada, alto índice de digitalização e forte economia baseada em serviços e exportações."
+		}
+	},
+	{
+		"code": "EG",
+		"country": "Egito",
+		"details": {
+			"population": 104124000,
+			"area": 1002450,
+			"gdp": 393000,
+			"capital": "Cairo",
+			"continent": "África",
+			"description": "O Egito é um país do nordeste da África, com uma rica herança histórica, sendo lar das pirâmides de Gizé e do rio Nilo, além de uma economia baseada em petróleo, gás e turismo."
+		}
+	},
+	{
+		"code": "EH",
+		"country": "Saara Ocidental",
+		"details": {
+			"population": 500000,
+			"area": 266000,
+			"gdp": 0,
+			"capital": "El Aaiún",
+			"continent": "África",
+			"description": "O Saara Ocidental é um território disputado na África, rico em recursos naturais, mas com uma situação política instável devido ao conflito entre o Marrocos e os separatistas."
+		}
+	},
+	{
+		"code": "ER",
+		"country": "Eritreia",
+		"details": {
+			"population": 3500000,
+			"area": 117600,
+			"gdp": 2000,
+			"capital": "Asmara",
+			"continent": "África",
+			"description": "A Eritreia é um país localizado no Chifre da África, com uma economia principalmente agrícola e uma história marcada por uma longa luta pela independência da Etiópia."
+		}
+	},
+	{
+		"code": "ES",
+		"country": "Espanha",
+		"details": {
+			"population": 46719142,
+			"area": 505992,
+			"gdp": 1620000,
+			"capital": "Madri",
+			"continent": "Europa",
+			"description": "A Espanha é um país europeu com uma economia altamente desenvolvida, rica em cultura e turismo, e conhecida por sua gastronomia, festas e belíssimas praias."
+		}
+	},
+	{
+		"code": "ET",
+		"country": "Etiópia",
+		"details": {
+			"population": 126500000,
+			"area": 1104300,
+			"gdp": 16300,
+			"capital": "Adis Abeba",
+			"continent": "África",
+			"description": "A Etiópia é um dos países mais antigos da África, conhecida por sua diversidade étnica, montanhas e uma economia agrícola, apesar dos desafios em infraestrutura e crescimento."
+		}
+	},
+	{
+		"code": "EU",
+		"country": "Europa",
+		"details": {
+			"population": 746419440,
+			"area": 10180000,
+			"gdp": 19000000,
+			"capital": "Bruxelas",
+			"continent": "Europa",
+			"description": "A Europa é um continente diversificado com países desenvolvidos e economias globais, conhecido por sua história, cultura e influência no cenário internacional."
+		}
+	},
+	{
+		"code": "FI",
+		"country": "Finlândia",
+		"details": {
+			"population": 5540720,
+			"area": 338424,
+			"gdp": 291000,
+			"capital": "Helsinque",
+			"continent": "Europa",
+			"description": "A Finlândia é um país nórdico conhecido por sua alta qualidade de vida, inovação tecnológica, educação e um sistema de bem-estar social avançado."
+		}
+	},
+	{
+		"code": "FJ",
+		"country": "Fiji",
+		"details": {
+			"population": 896444,
+			"area": 18274,
+			"gdp": 5000,
+			"capital": "Suva",
+			"continent": "Oceania",
+			"description": "Fiji é um arquipélago no Pacífico Sul, famoso por suas praias tropicais, cultura polinésia vibrante e uma economia dependente do turismo e agricultura."
+		}
+	},
+	{
+		"code": "FK",
+		"country": "Ilhas Malvinas",
+		"details": {
+			"population": 3000,
+			"area": 12173,
+			"gdp": 0,
+			"capital": "Stanley",
+			"continent": "América",
+			"description": "As Ilhas Malvinas, um território britânico no Atlântico Sul, são conhecidas por sua natureza selvagem, vida selvagem abundante e uma disputa de soberania com a Argentina."
+		}
+	},
+	{
+		"code": "FM",
+		"country": "Micronésia",
+		"details": {
+			"population": 115000,
+			"area": 702,
+			"gdp": 0,
+			"capital": "Palikir",
+			"continent": "Oceania",
+			"description": "A Micronésia é uma nação composta por vários estados-ilha no Pacífico, com uma economia pequena baseada em remessas e ajuda internacional."
+		}
+	},
+	{
+		"code": "FO",
+		"country": "Ilhas Faroé",
+		"details": {
+			"population": 53000,
+			"area": 1399,
+			"gdp": 0,
+			"capital": "Tórshavn",
+			"continent": "Europa",
+			"description": "As Ilhas Faroé são um território autônomo da Dinamarca, conhecidas por sua paisagem montanhosa, pesca e uma população pequena, mas forte identidade cultural."
+		}
+	},
+	{
+		"code": "FR",
+		"country": "França",
+		"details": {
+			"population": 67364357,
+			"area": 643801,
+			"gdp": 3050000,
+			"capital": "Paris",
+			"continent": "Europa",
+			"description": "A França é uma das maiores economias da Europa e do mundo, conhecida por sua influência cultural, histórica e sua indústria de moda, vinho e turismo."
+		}
+	},
+	{
+		"code": "GA",
+		"country": "Gabão",
+		"details": {
+			"population": 2119275,
+			"area": 267668,
+			"gdp": 16900,
+			"capital": "Libreville",
+			"continent": "África",
+			"description": "O Gabão é um país na costa oeste da África, rico em petróleo e recursos naturais, com uma economia fortemente dependente da extração de petróleo."
+		}
+	},
+	{
+		"code": "GB-ENG",
+		"country": "Inglaterra",
+		"details": {
+			"population": 55980000,
+			"area": 130395,
+			"gdp": 1800000,
+			"capital": "Londres",
+			"continent": "Europa",
+			"description": "A Inglaterra é a maior nação do Reino Unido, com uma economia poderosa e uma rica história cultural, política e científica."
+		}
+	},
+	{
+		"code": "GB-SCT",
+		"country": "Escócia",
+		"details": {
+			"population": 5460000,
+			"area": 77933,
+			"gdp": 220000,
+			"capital": "Edimburgo",
+			"continent": "Europa",
+			"description": "A Escócia, parte do Reino Unido, é conhecida por suas paisagens deslumbrantes, história rica e cultura distinta, com destaque para os kilts e o bagpipe."
+		}
+	},
+	{
+		"code": "GB-WLS",
+		"country": "País de Gales",
+		"details": {
+			"population": 3152879,
+			"area": 20779,
+			"gdp": 80000,
+			"capital": "Cardiff",
+			"continent": "Europa",
+			"description": "O País de Gales é um país do Reino Unido, com uma forte identidade cultural e linguística, além de belas paisagens montanhosas e litorâneas."
+		}
+	},
+	{
+		"code": "GB",
+		"country": "Reino Unido",
+		"details": {
+			"population": 68100000,
+			"area": 243610,
+			"gdp": 3381000,
+			"capital": "Londres",
+			"continent": "Europa",
+			"description": "O Reino Unido é um dos países mais influentes do mundo, com uma economia diversificada, uma monarquia histórica e um papel importante na política e economia globais."
+		}
+	},
+	{
+		"code": "GD",
+		"country": "Granada",
+		"details": {
+			"population": 112523,
+			"area": 344,
+			"gdp": 1300,
+			"capital": "St. George's",
+			"continent": "América",
+			"description": "Granada é um pequeno país caribenho conhecido por suas praias tropicais e produção de especiarias, como noz-moscada."
+		}
+	},
+	{
+		"code": "GE",
+		"country": "Geórgia",
+		"details": {
+			"population": 3989167,
+			"area": 69700,
+			"gdp": 18000,
+			"capital": "Tbilisi",
+			"continent": "Europa/Ásia",
+			"description": "A Geórgia é um país na região do Cáucaso, com uma história antiga, uma economia em crescimento e paisagens montanhosas espetaculares."
+		}
+	},
+	{
+		"code": "GG",
+		"country": "Guernsey",
+		"details": {
+			"population": 62999,
+			"area": 78,
+			"gdp": 0,
+			"capital": "St. Peter Port",
+			"continent": "Europa",
+			"description": "Guernsey é uma ilha no Canal da Mancha, conhecida por sua beleza natural e status de dependência da Coroa Britânica, com uma economia baseada em finanças e turismo."
+		}
+	},
+	{
+		"code": "GH",
+		"country": "Gana",
+		"details": {
+			"population": 31300000,
+			"area": 238533,
+			"gdp": 76500,
+			"capital": "Acra",
+			"continent": "África",
+			"description": "Gana é um país da África Ocidental com uma economia diversificada, incluindo a mineração de ouro, petróleo e uma forte cultura de exportação de cacau."
+		}
+	},
+	{
+		"code": "GI",
+		"country": "Gibraltar",
+		"details": {
+			"population": 34000,
+			"area": 6.7,
+			"gdp": 500,
+			"capital": "Gibraltar",
+			"continent": "Europa",
+			"description": "Gibraltar é um território britânico localizado no extremo sul da Península Ibérica, conhecido por seu famoso penhasco e status de centro financeiro."
+		}
+	},
+	{
+		"code": "GL",
+		"country": "Gronelândia",
+		"details": {
+			"population": 56000,
+			"area": 2166086,
+			"gdp": 3236,
+			"capital": "Nuuk",
+			"continent": "América do Norte",
+			"description": "A Gronelândia é um território autônomo da Dinamarca, com vastas áreas de gelo e uma economia baseada em pesca, mineração e subsídios dinamarqueses."
+		}
+	},
+	{
+		"code": "GM",
+		"country": "Gâmbia",
+		"details": {
+			"population": 2340000,
+			"area": 11295,
+			"gdp": 1400,
+			"capital": "Banjul",
+			"continent": "África",
+			"description": "A Gâmbia é o menor país da África continental, com uma economia dependente da agricultura, especialmente de amendoim, e da indústria pesqueira."
+		}
+	},
+	{
+		"code": "GN",
+		"country": "Guiné",
+		"details": {
+			"population": 13000000,
+			"area": 245857,
+			"gdp": 5600,
+			"capital": "Conakry",
+			"continent": "África",
+			"description": "A Guiné é um país da África Ocidental, rico em recursos naturais, especialmente bauxita, e com uma economia em desenvolvimento baseada na mineração e agricultura."
+		}
+	},
+	{
+		"code": "GQ",
+		"country": "Guiné Equatorial",
+		"details": {
+			"population": 1402985,
+			"area": 28051,
+			"gdp": 13000,
+			"capital": "Malabo",
+			"continent": "África",
+			"description": "Guiné Equatorial é um país da África Central com uma economia fortemente dependente de petróleo e gás natural, e uma das nações mais ricas da África, com grandes desigualdades."
+		}
+	},
+	{
+		"code": "GR",
+		"country": "Grécia",
+		"details": {
+			"population": 10700000,
+			"area": 131957,
+			"gdp": 243000,
+			"capital": "Atenas",
+			"continent": "Europa",
+			"description": "A Grécia é conhecida por sua rica história antiga, sendo o berço da democracia e da filosofia, além de suas belíssimas ilhas e uma economia diversificada."
+		}
+	},
+	{
+		"code": "GS",
+		"country": "Geórgia do Sul",
+		"details": {
+			"population": 30,
+			"area": 3903,
+			"gdp": 0,
+			"capital": "King Edward Point",
+			"continent": "Antártida",
+			"description": "A Geórgia do Sul é uma ilha remota no Atlântico Sul, conhecida por sua vida selvagem e por ser um território britânico com uma história de disputas territoriais com a Argentina."
+		}
+	},
+	{
+		"code": "GT",
+		"country": "Guatemala",
+		"details": {
+			"population": 18300000,
+			"area": 108889,
+			"gdp": 17000,
+			"capital": "Cidade da Guatemala",
+			"continent": "América Central",
+			"description": "A Guatemala é um país da América Central, rico em história maia, com uma economia baseada na agricultura, especialmente café e banana."
+		}
+	},
+	{
+		"code": "GU",
+		"country": "Guam",
+		"details": {
+			"population": 168000,
+			"area": 544,
+			"gdp": 0,
+			"capital": "Hagåtña",
+			"continent": "Oceania",
+			"description": "Guam é um território dos Estados Unidos no Pacífico, com uma economia baseada em turismo, serviços militares e agricultura."
+		}
+	},
+	{
+		"code": "GW",
+		"country": "Guiné-Bissau",
+		"details": {
+			"population": 2000000,
+			"area": 36125,
+			"gdp": 1200,
+			"capital": "Bissau",
+			"continent": "África",
+			"description": "A Guiné-Bissau é um país na África Ocidental, com uma economia baseada na agricultura e na exportação de amendoim, mas enfrenta desafios políticos e sociais."
+		}
+	},
+	{
+		"code": "GY",
+		"country": "Guiana",
+		"details": {
+			"population": 786000,
+			"area": 214969,
+			"gdp": 17000,
+			"capital": "Georgetown",
+			"continent": "América do Sul",
+			"description": "A Guiana é o único país de língua inglesa na América do Sul, com uma economia baseada em mineração, petróleo e agricultura."
+		}
+	},
+	{
+		"code": "HK",
+		"country": "Hong Kong",
+		"details": {
+			"population": 7500000,
+			"area": 1106,
+			"gdp": 380000,
+			"capital": "Cidade de Hong Kong",
+			"continent": "Ásia",
+			"description": "Hong Kong é uma Região Administrativa Especial da China, conhecida por ser um dos maiores centros financeiros e comerciais do mundo, com uma economia baseada em serviços."
+		}
+	},
+	{
+		"code": "HM",
+		"country": "Ilha Heard e Ilhas McDonald",
+		"details": {
+			"population": 0,
+			"area": 364,
+			"gdp": 0,
+			"capital": "Não aplicável",
+			"continent": "Antártida",
+			"description": "As Ilhas Heard e McDonald são um território australiano no Oceano Antártico, desabitadas e conhecidas por sua fauna diversificada, especialmente aves marinhas."
+		}
+	},
+	{
+		"code": "HN",
+		"country": "Honduras",
+		"details": {
+			"population": 9904607,
+			"area": 112492,
+			"gdp": 34500,
+			"capital": "Tegucigalpa",
+			"continent": "América Central",
+			"description": "Honduras é um país da América Central, com uma economia baseada na agricultura, especialmente café e bananas, além de recursos naturais como minerais."
+		}
+	},
+	{
+		"code": "HR",
+		"country": "Croácia",
+		"details": {
+			"population": 4105267,
+			"area": 56594,
+			"gdp": 84000,
+			"capital": "Zagreb",
+			"continent": "Europa",
+			"description": "A Croácia é um país do sudeste europeu, com uma rica história medieval e costas deslumbrantes no Mar Adriático, além de um setor turístico crescente."
+		}
+	},
+	{
+		"code": "HT",
+		"country": "Haiti",
+		"details": {
+			"population": 11300000,
+			"area": 27750,
+			"gdp": 19500,
+			"capital": "Porto Príncipe",
+			"continent": "América Central",
+			"description": "Haiti é um país na ilha Hispaniola, na região do Caribe, com uma economia em dificuldades e uma rica história de luta pela independência."
+		}
+	},
+	{
+		"code": "HU",
+		"country": "Hungria",
+		"details": {
+			"population": 9668000,
+			"area": 93030,
+			"gdp": 212000,
+			"capital": "Budapeste",
+			"continent": "Europa",
+			"description": "A Hungria é um país na Europa Central, conhecida por sua rica cultura, culinária, e história, além de uma economia em crescimento, com ênfase em indústrias como automóveis e tecnologia."
+		}
+	},
+	{
+		"code": "ID",
+		"country": "Indonésia",
+		"details": {
+			"population": 276361783,
+			"area": 1904569,
+			"gdp": 1371000,
+			"capital": "Jacarta",
+			"continent": "Ásia",
+			"description": "A Indonésia é um vasto arquipélago no sudeste asiático, com uma economia diversificada que inclui petróleo, gás, turismo e agricultura."
+		}
+	},
+	{
+		"code": "IE",
+		"country": "Irlanda",
+		"details": {
+			"population": 4937786,
+			"area": 70273,
+			"gdp": 551000,
+			"capital": "Dublin",
+			"continent": "Europa",
+			"description": "A Irlanda é um país europeu conhecido por sua paisagem verdejante, rica herança cultural, e economia em crescimento, com destaque para o setor de tecnologia e farmacêutico."
+		}
+	},
+	{
+		"code": "IL",
+		"country": "Israel",
+		"details": {
+			"population": 9440000,
+			"area": 22072,
+			"gdp": 434000,
+			"capital": "Jerusalém",
+			"continent": "Ásia",
+			"description": "Israel é um país do Oriente Médio, com uma economia avançada em setores como tecnologia e ciência, e uma longa história religiosa e política."
+		}
+	},
+	{
+		"code": "IM",
+		"country": "Ilha de Man",
+		"details": {
+			"population": 85000,
+			"area": 572,
+			"gdp": 0,
+			"capital": "Douglas",
+			"continent": "Europa",
+			"description": "A Ilha de Man é um território autônomo no Mar da Irlanda, conhecida por suas leis fiscais favoráveis e uma economia baseada em turismo e serviços financeiros."
+		}
+	},
+	{
+		"code": "IN",
+		"country": "Índia",
+		"details": {
+			"population": 1393409038,
+			"area": 3287263,
+			"gdp": 3568000,
+			"capital": "Nova Délhi",
+			"continent": "Ásia",
+			"description": "A Índia é um dos países mais populosos e culturalmente diversos do mundo, com uma economia em rápido crescimento, especialmente em tecnologia, agricultura e manufatura."
+		}
+	},
+	{
+		"code": "IO",
+		"country": "Território Britânico do Oceano Índico",
+		"details": {
+			"population": 3000,
+			"area": 60,
+			"gdp": 0,
+			"capital": "Diego Garcia",
+			"continent": "Ásia",
+			"description": "O Território Britânico do Oceano Índico é um território ultramarino do Reino Unido, composto por várias ilhas remotas no Oceano Índico, com uso militar predominante."
+		}
+	},
+	{
+		"code": "IQ",
+		"country": "Iraque",
+		"details": {
+			"population": 40222493,
+			"area": 438317,
+			"gdp": 250000,
+			"capital": "Bagdá",
+			"continent": "Ásia",
+			"description": "O Iraque é um país do Oriente Médio, com vastos recursos de petróleo, mas com uma história recente marcada por conflitos e desafios socioeconômicos."
+		}
+	},
+	{
+		"code": "IR",
+		"country": "Irã",
+		"details": {
+			"population": 83992953,
+			"area": 1648195,
+			"gdp": 400000,
+			"capital": "Teerã",
+			"continent": "Ásia",
+			"description": "O Irã é um país no Oriente Médio, com uma economia baseada em petróleo e gás, além de uma rica história cultural e religiosa, especialmente no islamismo xiita."
+		}
+	},
+	{
+		"code": "IS",
+		"country": "Islândia",
+		"details": {
+			"population": 356991,
+			"area": 103000,
+			"gdp": 31000,
+			"capital": "Reykjavik",
+			"continent": "Europa",
+			"description": "A Islândia é uma ilha no Ártico, conhecida por suas paisagens vulcânicas, fontes termais e uma economia pequena, mas robusta, baseada em turismo e energia renovável."
+		}
+	},
+	{
+		"code": "IT",
+		"country": "Itália",
+		"details": {
+			"population": 60244639,
+			"area": 301340,
+			"gdp": 2301000,
+			"capital": "Roma",
+			"continent": "Europa",
+			"description": "A Itália é famosa por sua cultura, arte, gastronomia e história, além de ser uma das principais economias da Europa, com destaque para setores como moda, turismo e manufatura."
+		}
+	},
+	{
+		"code": "JE",
+		"country": "Jersey",
+		"details": {
+			"population": 108000,
+			"area": 46.2,
+			"gdp": 0,
+			"capital": "São Helier",
+			"continent": "Europa",
+			"description": "Jersey é uma ilha no Canal da Mancha, uma dependência da Coroa Britânica, conhecida por sua economia baseada em serviços financeiros e turismo."
+		}
+	},
+	{
+		"code": "JM",
+		"country": "Jamaica",
+		"details": {
+			"population": 2961161,
+			"area": 10991,
+			"gdp": 19000,
+			"capital": "Kingston",
+			"continent": "América Central",
+			"description": "A Jamaica é uma ilha no Caribe conhecida por sua música reggae, belas praias e uma economia baseada no turismo e na produção de bauxita."
+		}
+	},
+	{
+		"code": "JO",
+		"country": "Jordânia",
+		"details": {
+			"population": 10203140,
+			"area": 89342,
+			"gdp": 51000,
+			"capital": "Amã",
+			"continent": "Ásia",
+			"description": "A Jordânia é um país no Oriente Médio, com uma economia baseada em serviços, turismo e assistência internacional, e rica em heranças históricas, como Petra."
+		}
+	},
+	{
+		"code": "JP",
+		"country": "Japão",
+		"details": {
+			"population": 126800000,
+			"area": 377975,
+			"gdp": 4204000,
+			"capital": "Tóquio",
+			"continent": "Ásia",
+			"description": "O Japão é uma potência econômica mundial, conhecido por sua tecnologia avançada, cultura única e uma economia altamente industrializada."
+		}
+	},
+	{
+		"code": "KE",
+		"country": "Quênia",
+		"details": {
+			"population": 53771296,
+			"area": 580367,
+			"gdp": 108000,
+			"capital": "Nairóbi",
+			"continent": "África",
+			"description": "O Quênia é um país no leste da África, conhecido por suas paisagens naturais, vida selvagem e economia baseada em agricultura e turismo."
+		}
+	},
+	{
+		"code": "KG",
+		"country": "Quirguistão",
+		"details": {
+			"population": 6270000,
+			"area": 199951,
+			"gdp": 13800,
+			"capital": "Bishkek",
+			"continent": "Ásia",
+			"description": "O Quirguistão é um país montanhoso da Ásia Central, com uma economia baseada em agricultura, minerais e turismo em suas paisagens naturais."
+		}
+	},
+	{
+		"code": "KH",
+		"country": "Camboja",
+		"details": {
+			"population": 16900000,
+			"area": 181035,
+			"gdp": 42000,
+			"capital": "Phnom Penh",
+			"continent": "Ásia",
+			"description": "O Camboja é um país no Sudeste Asiático, conhecido por sua rica história cultural, com destaque para os templos de Angkor, e uma economia em crescimento."
+		}
+	},
+	{
+		"code": "KI",
+		"country": "Kiribati",
+		"details": {
+			"population": 119500,
+			"area": 811,
+			"gdp": 0,
+			"capital": "Bairiki",
+			"continent": "Oceania",
+			"description": "Kiribati é um país insular no Pacífico central, conhecido por ser um dos países mais vulneráveis aos efeitos das mudanças climáticas."
+		}
+	},
+	{
+		"code": "KM",
+		"country": "Comores",
+		"details": {
+			"population": 806153,
+			"area": 2235,
+			"gdp": 700,
+			"capital": "Moroni",
+			"continent": "África",
+			"description": "As Comores são um arquipélago no Oceano Índico, com uma economia baseada na agricultura, especialmente na produção de cravo e baunilha."
+		}
+	},
+	{
+		"code": "KN",
+		"country": "São Cristóvão e Neves",
+		"details": {
+			"population": 55000,
+			"area": 261,
+			"gdp": 1000,
+			"capital": "Basseterre",
+			"continent": "América Central",
+			"description": "São Cristóvão e Neves é um pequeno país insular no Caribe, com uma economia baseada no turismo e na agricultura, particularmente no cultivo de açúcar."
+		}
+	},
+	{
+		"code": "KP",
+		"country": "Coreia do Norte",
+		"details": {
+			"population": 25778815,
+			"area": 120538,
+			"gdp": 40000,
+			"capital": "Pyongyang",
+			"continent": "Ásia",
+			"description": "A Coreia do Norte é um estado socialista altamente centralizado, com uma economia controlada pelo governo e um regime político autoritário."
+		}
+	},
+	{
+		"code": "KR",
+		"country": "Coreia do Sul",
+		"details": {
+			"population": 51329899,
+			"area": 100032,
+			"gdp": 1713000,
+			"capital": "Seul",
+			"continent": "Ásia",
+			"description": "A Coreia do Sul é uma potência econômica, conhecida por sua indústria de tecnologia, cultura pop e uma das economias mais avançadas do mundo."
+		}
+	},
+	{
+		"code": "KW",
+		"country": "Kuwait",
+		"details": {
+			"population": 4270563,
+			"area": 17818,
+			"gdp": 163000,
+			"capital": "Cuaite",
+			"continent": "Ásia",
+			"description": "O Kuwait é um pequeno país no Golfo Pérsico, com uma economia rica em petróleo e um alto padrão de vida, além de ser um importante centro financeiro."
+		}
+	},
+	{
+		"code": "KY",
+		"country": "Ilhas Cayman",
+		"details": {
+			"population": 65000,
+			"area": 264,
+			"gdp": 85000,
+			"capital": "George Town",
+			"continent": "América Central",
+			"description": "As Ilhas Cayman são um território britânico no Caribe, conhecido por seu setor financeiro robusto, turismo e praias paradisíacas."
+		}
+	},
+	{
+		"code": "KZ",
+		"country": "Cazaquistão",
+		"details": {
+			"population": 18776707,
+			"area": 2724900,
+			"gdp": 262000,
+			"capital": "Nursultan",
+			"continent": "Ásia",
+			"description": "O Cazaquistão é o maior país da Ásia Central, com vastos recursos naturais, incluindo petróleo e gás, e uma economia em desenvolvimento."
+		}
+	},
+	{
+		"code": "LA",
+		"country": "Laos",
+		"details": {
+			"population": 7275560,
+			"area": 237955,
+			"gdp": 16000,
+			"capital": "Vientiã",
+			"continent": "Ásia",
+			"description": "O Laos é um país no sudeste asiático, conhecido por suas montanhas, templos budistas e uma economia em crescimento, baseada em agricultura e mineração."
+		}
+	},
+	{
+		"code": "LB",
+		"country": "Líbano",
+		"details": {
+			"population": 6825445,
+			"area": 10452,
+			"gdp": 20000,
+			"capital": "Beirute",
+			"continent": "Ásia",
+			"description": "O Líbano é um país do Oriente Médio, com uma história antiga, rica cultura e economia voltada para os setores de serviços e comércio."
+		}
+	},
+	{
+		"code": "LC",
+		"country": "Santa Lúcia",
+		"details": {
+			"population": 183000,
+			"area": 616,
+			"gdp": 1500,
+			"capital": "Castries",
+			"continent": "América Central",
+			"description": "Santa Lúcia é uma pequena ilha no Caribe, conhecida por suas paisagens tropicais, turismo e agricultura, especialmente a produção de banana."
+		}
+	},
+	{
+		"code": "LI",
+		"country": "Liechtenstein",
+		"details": {
+			"population": 38128,
+			"area": 160,
+			"gdp": 6000,
+			"capital": "Vaduz",
+			"continent": "Europa",
+			"description": "Liechtenstein é um pequeno principado na Europa Central, conhecido por sua economia próspera, altamente industrializada e um dos maiores PIBs per capita do mundo."
+		}
+	},
+	{
+		"code": "LK",
+		"country": "Sri Lanka",
+		"details": {
+			"population": 21803000,
+			"area": 65610,
+			"gdp": 68000,
+			"capital": "Colombo",
+			"continent": "Ásia",
+			"description": "O Sri Lanka é uma ilha no sul da Ásia, conhecida por sua biodiversidade, cultura rica e uma economia baseada em agricultura, manufatura e turismo."
+		}
+	},
+	{
+		"code": "LR",
+		"country": "Libéria",
+		"details": {
+			"population": 5057681,
+			"area": 111369,
+			"gdp": 3000,
+			"capital": "Monróvia",
+			"continent": "África",
+			"description": "A Libéria é um país na África Ocidental, com uma economia baseada principalmente em mineração, agricultura e exportação de recursos naturais."
+		}
+	},
+	{
+		"code": "LS",
+		"country": "Lesoto",
+		"details": {
+			"population": 2142249,
+			"area": 30355,
+			"gdp": 1700,
+			"capital": "Maseru",
+			"continent": "África",
+			"description": "Lesoto é um pequeno país montanhoso na África Austral, cercado pela África do Sul, com uma economia dependente de agricultura e indústria têxtil."
+		}
+	},
+	{
+		"code": "LT",
+		"country": "Lituânia",
+		"details": {
+			"population": 2722289,
+			"area": 65300,
+			"gdp": 79000,
+			"capital": "Vílnius",
+			"continent": "Europa",
+			"description": "A Lituânia é um país báltico na Europa, com uma economia em crescimento, destacando-se em tecnologia e serviços financeiros."
+		}
+	},
+	{
+		"code": "LU",
+		"country": "Luxemburgo",
+		"details": {
+			"population": 645000,
+			"area": 2586,
+			"gdp": 85000,
+			"capital": "Luxemburgo",
+			"continent": "Europa",
+			"description": "Luxemburgo é um pequeno país europeu, conhecido por seu setor financeiro próspero e alto PIB per capita, além de sua política externa ativa."
+		}
+	},
+	{
+		"code": "LV",
+		"country": "Letônia",
+		"details": {
+			"population": 1886198,
+			"area": 64559,
+			"gdp": 45000,
+			"capital": "Riga",
+			"continent": "Europa",
+			"description": "A Letônia é um dos países bálticos, com uma economia baseada em serviços e tecnologia, e um forte setor industrial, especialmente no setor de madeira."
+		}
+	},
+	{
+		"code": "LY",
+		"country": "Líbia",
+		"details": {
+			"population": 6871297,
+			"area": 1759540,
+			"gdp": 48000,
+			"capital": "Trípoli",
+			"continent": "África",
+			"description": "A Líbia é um país no norte da África, rico em petróleo, mas enfrenta desafios políticos e sociais, com uma economia altamente dependente do setor de energia."
+		}
+	},
+	{
+		"code": "MA",
+		"country": "Marrocos",
+		"details": {
+			"population": 36910560,
+			"area": 710850,
+			"gdp": 144000,
+			"capital": "Rabat",
+			"continent": "África",
+			"description": "Marrocos é um país no norte da África, com uma economia diversificada, que inclui turismo, agricultura, pesca e mineração, além de ser um destino turístico popular."
+		}
+	},
+	{
+		"code": "MC",
+		"country": "Mônaco",
+		"details": {
+			"population": 38000,
+			"area": 2.02,
+			"gdp": 99000,
+			"capital": "Mônaco",
+			"continent": "Europa",
+			"description": "Mônaco é um pequeno principado no Mediterrâneo, conhecido por sua riqueza, setor de turismo e cassino, além de ser um paraíso fiscal."
+		}
+	},
+	{
+		"code": "MD",
+		"country": "Moldávia",
+		"details": {
+			"population": 2657637,
+			"area": 33846,
+			"gdp": 16000,
+			"capital": "Quixinau",
+			"continent": "Europa",
+			"description": "A Moldávia é um pequeno país no leste da Europa, com uma economia baseada na agricultura, especialmente na produção de vinhos e alimentos."
+		}
+	},
+	{
+		"code": "ME",
+		"country": "Montenegro",
+		"details": {
+			"population": 622359,
+			"area": 13812,
+			"gdp": 7500,
+			"capital": "Podgórica",
+			"continent": "Europa",
+			"description": "Montenegro é um país nos Balcãs, com um litoral no Mar Adriático, conhecido por suas paisagens naturais, turismo e uma economia emergente."
+		}
+	},
+	{
+		"code": "MF",
+		"country": "São Martinho",
+		"details": {
+			"population": 38659,
+			"area": 53.2,
+			"gdp": 0,
+			"capital": "Marigot",
+			"continent": "América Central",
+			"description": "São Martinho é uma ilha no Caribe, dividida entre a França e os Países Baixos, conhecida por suas belas praias e turismo."
+		}
+	},
+	{
+		"code": "MG",
+		"country": "Madagáscar",
+		"details": {
+			"population": 27691018,
+			"area": 587041,
+			"gdp": 15000,
+			"capital": "Antananarivo",
+			"continent": "África",
+			"description": "Madagáscar é uma ilha no Oceano Índico, famosa por sua biodiversidade única e uma economia baseada em agricultura, especialmente na produção de baunilha e café."
+		}
+	},
+	{
+		"code": "MH",
+		"country": "Ilhas Marshall",
+		"details": {
+			"population": 53000,
+			"area": 181,
+			"gdp": 260,
+			"capital": "Majuro",
+			"continent": "Oceania",
+			"description": "As Ilhas Marshall são um país insular no Pacífico, conhecido por sua estratégica localização, desafios relacionados ao aquecimento global e uma economia baseada em ajuda externa."
+		}
+	},
+	{
+		"code": "MK",
+		"country": "Macedônia do Norte",
+		"details": {
+			"population": 2083459,
+			"area": 25713,
+			"gdp": 15000,
+			"capital": "Skopje",
+			"continent": "Europa",
+			"description": "A Macedônia do Norte é um país nos Bálcãs, com uma economia em transição, que tem uma forte base agrícola e um setor de serviços em crescimento."
+		}
+	},
+	{
+		"code": "ML",
+		"country": "Mali",
+		"details": {
+			"population": 20373000,
+			"area": 1240192,
+			"gdp": 20000,
+			"capital": "Bamaco",
+			"continent": "África",
+			"description": "Mali é um país no Sahel, com uma economia baseada na agricultura e mineração, especialmente ouro, e uma rica herança cultural e histórica."
+		}
+	},
+	{
+		"code": "MM",
+		"country": "Mianmar",
+		"details": {
+			"population": 54600000,
+			"area": 676578,
+			"gdp": 66000,
+			"capital": "Naypyidaw",
+			"continent": "Ásia",
+			"description": "Mianmar é um país no Sudeste Asiático, com uma economia em desenvolvimento, rica em recursos naturais, mas marcada por desafios políticos e sociais."
+		}
+	},
+	{
+		"code": "MN",
+		"country": "Mongólia",
+		"details": {
+			"population": 3300000,
+			"area": 1564116,
+			"gdp": 20000,
+			"capital": "Ulan Bator",
+			"continent": "Ásia",
+			"description": "A Mongólia é um país no centro da Ásia, com uma economia baseada em mineração, pecuária e recursos naturais, sendo um dos países mais áridos do mundo."
+		}
+	},
+	{
+		"code": "MO",
+		"country": "Macau",
+		"details": {
+			"population": 680000,
+			"area": 30.3,
+			"gdp": 45000,
+			"capital": "Macau",
+			"continent": "Ásia",
+			"description": "Macau é uma região administrativa especial da China, conhecida por seus cassinos e turismo, com uma economia baseada em jogos e entretenimento."
+		}
+	},
+	{
+		"code": "MP",
+		"country": "Ilhas Marianas do Norte",
+		"details": {
+			"population": 55000,
+			"area": 464,
+			"gdp": 0,
+			"capital": "Saipan",
+			"continent": "Oceania",
+			"description": "As Ilhas Marianas do Norte são um território dos EUA no Pacífico, conhecidas por sua base militar e economia focada em turismo e indústrias pesqueiras."
+		}
+	},
+	{
+		"code": "MQ",
+		"country": "Martinica",
+		"details": {
+			"population": 376480,
+			"area": 1128,
+			"gdp": 0,
+			"capital": "Fort-de-France",
+			"continent": "América Central",
+			"description": "A Martinica é uma ilha no Caribe, uma região ultramarina da França, conhecida por suas praias tropicais, cultura e economia baseada no turismo e na produção de cana-de-açúcar."
+		}
+	},
+	{
+		"code": "MR",
+		"country": "Mauritânia",
+		"details": {
+			"population": 4480000,
+			"area": 1030700,
+			"gdp": 4900,
+			"capital": "Nouakchott",
+			"continent": "África",
+			"description": "A Mauritânia é um país no noroeste da África, com uma economia baseada na mineração, agricultura e pesca, sendo um dos maiores exportadores de ferro do mundo."
+		}
+	},
+	{
+		"code": "MS",
+		"country": "Montserrat",
+		"details": {
+			"population": 5000,
+			"area": 102,
+			"gdp": 63,
+			"capital": "Plymouth",
+			"continent": "América Central",
+			"description": "Montserrat é um território britânico no Caribe, famoso pela erupção do vulcão Soufrière Hills, que destruiu a capital, Plymouth."
+		}
+	},
+	{
+		"code": "MT",
+		"country": "Malta",
+		"details": {
+			"population": 514064,
+			"area": 316,
+			"gdp": 22000,
+			"capital": "Valeta",
+			"continent": "Europa",
+			"description": "Malta é um pequeno arquipélago no Mediterrâneo, com uma economia focada em turismo, comércio e serviços financeiros, e uma rica história cultural."
+		}
+	},
+	{
+		"code": "MU",
+		"country": "Maurício",
+		"details": {
+			"population": 1271768,
+			"area": 2040,
+			"gdp": 14000,
+			"capital": "Port Louis",
+			"continent": "África",
+			"description": "Maurício é uma ilha no Oceano Índico, conhecida por suas praias, turismo e uma economia que tem crescido com a indústria têxtil, turismo e exportação de açúcar."
+		}
+	},
+	{
+		"code": "MV",
+		"country": "Maldivas",
+		"details": {
+			"population": 392040,
+			"area": 298,
+			"gdp": 13000,
+			"capital": "Malé",
+			"continent": "Ásia",
+			"description": "As Maldivas são um arquipélago no Oceano Índico, famoso por suas ilhas paradisíacas e turismo, sendo uma economia fortemente dependente do setor de viagens."
+		}
+	},
+	{
+		"code": "MW",
+		"country": "Malaui",
+		"details": {
+			"population": 19784000,
+			"area": 118484,
+			"gdp": 4000,
+			"capital": "Lilongwe",
+			"continent": "África",
+			"description": "Malawi é um país da África Oriental, com uma economia agrária, baseado principalmente na agricultura e no cultivo de tabaco, chá e milho."
+		}
+	},
+	{
+		"code": "MX",
+		"country": "México",
+		"details": {
+			"population": 126190788,
+			"area": 1964375,
+			"gdp": 1789000,
+			"capital": "Cidade do México",
+			"continent": "América do Norte",
+			"description": "O México é um país na América do Norte, com uma economia diversificada, incluindo indústria, petróleo, agricultura e um grande setor de turismo."
+		}
+	},
+	{
+		"code": "MY",
+		"country": "Malásia",
+		"details": {
+			"population": 32000000,
+			"area": 330803,
+			"gdp": 399000,
+			"capital": "Kuala Lumpur",
+			"continent": "Ásia",
+			"description": "A Malásia é um país no Sudeste Asiático, com uma economia baseada em eletrônicos, petróleo, gás e produtos agrícolas, além de um destino turístico popular."
+		}
+	},
+	{
+		"code": "MZ",
+		"country": "Moçambique",
+		"details": {
+			"population": 31255435,
+			"area": 801590,
+			"gdp": 20000,
+			"capital": "Maputo",
+			"continent": "África",
+			"description": "Moçambique é um país no sudeste da África, com uma economia baseada em mineração, agricultura e recursos naturais, além de um longo litoral e potencial turístico."
+		}
+	},
+	{
+		"code": "NA",
+		"country": "Namíbia",
+		"details": {
+			"population": 2586800,
+			"area": 825615,
+			"gdp": 12000,
+			"capital": "Windhoek",
+			"continent": "África",
+			"description": "A Namíbia é um país no sudoeste da África, conhecido por seus vastos desertos, recursos minerais, especialmente diamantes, e um crescente setor de turismo."
+		}
+	},
+	{
+		"code": "NE",
+		"country": "Níger",
+		"details": {
+			"population": 22400000,
+			"area": 1267000,
+			"gdp": 16000,
+			"capital": "Niamey",
+			"continent": "África",
+			"description": "Níger é um país no Sahel africano, com uma economia dependente da agricultura, mineração e comércio de urânio, enfrentando desafios climáticos e de desenvolvimento."
+		}
+	},
+	{
+		"code": "NF",
+		"country": "Ilha Norfolk",
+		"details": {
+			"population": 2300,
+			"area": 36.6,
+			"gdp": 0,
+			"capital": "Kingston",
+			"continent": "Oceania",
+			"description": "A Ilha Norfolk é um território australiano no Pacífico, conhecido por sua beleza natural e uma pequena população que vive principalmente do turismo."
+		}
+	},
+	{
+		"code": "NG",
+		"country": "Nigéria",
+		"details": {
+			"population": 206139589,
+			"area": 923768,
+			"gdp": 363000,
+			"capital": "Abuja",
+			"continent": "África",
+			"description": "A Nigéria é a maior economia da África, com uma rica base de petróleo e gás, além de uma crescente indústria de tecnologia e entretenimento, especialmente em Nollywood."
+		}
+	},
+	{
+		"code": "NI",
+		"country": "Nicarágua",
+		"details": {
+			"population": 6262700,
+			"area": 130375,
+			"gdp": 17000,
+			"capital": "Manágua",
+			"continent": "América Central",
+			"description": "A Nicarágua é um país da América Central, com uma economia baseada principalmente na agricultura, como café, carne e tabaco, além de ser um destino turístico em crescimento."
+		}
+	},
+	{
+		"code": "NL",
+		"country": "Países Baixos",
+		"details": {
+			"population": 17019800,
+			"area": 41850,
+			"gdp": 1154000,
+			"capital": "Amsterdã",
+			"continent": "Europa",
+			"description": "Os Países Baixos, também conhecidos como Holanda, são uma nação da Europa Ocidental, famosa por sua infraestrutura avançada, comércio, agricultura e uma rica herança cultural."
+		}
+	},
+	{
+		"code": "NO",
+		"country": "Noruega",
+		"details": {
+			"population": 5311916,
+			"area": 148729,
+			"gdp": 485000,
+			"capital": "Oslo",
+			"continent": "Europa",
+			"description": "A Noruega é um país nórdico rico em recursos naturais, especialmente petróleo e gás, com uma alta qualidade de vida e um setor público bem desenvolvido."
+		}
+	},
+	{
+		"code": "NP",
+		"country": "Nepal",
+		"details": {
+			"population": 29950000,
+			"area": 147181,
+			"gdp": 40000,
+			"capital": "Catmandu",
+			"continent": "Ásia",
+			"description": "Nepal é um país montanhoso no Himalaia, famoso pelo Monte Everest e pelas trilhas de trekking, com uma economia baseada na agricultura e no turismo."
+		}
+	},
+	{
+		"code": "NR",
+		"country": "Nauru",
+		"details": {
+			"population": 10000,
+			"area": 21,
+			"gdp": 154,
+			"capital": "Yaren",
+			"continent": "Oceania",
+			"description": "Nauru é uma pequena ilha no Pacífico, conhecida por sua indústria de fosfato e um dos países mais ricos por habitante, embora enfrente desafios econômicos."
+		}
+	},
+	{
+		"code": "NU",
+		"country": "Niue",
+		"details": {
+			"population": 1600,
+			"area": 260,
+			"gdp": 0,
+			"capital": "Alofi",
+			"continent": "Oceania",
+			"description": "Niue é uma ilha no Pacífico Sul, um território livre associado à Nova Zelândia, conhecido por sua beleza natural e uma economia baseada em ajuda externa e turismo."
+		}
+	},
+	{
+		"code": "NZ",
+		"country": "Nova Zelândia",
+		"details": {
+			"population": 5084300,
+			"area": 268021,
+			"gdp": 252000,
+			"capital": "Wellington",
+			"continent": "Oceania",
+			"description": "A Nova Zelândia é um país insular no Pacífico, com uma economia moderna, baseada na agricultura, turismo e indústria cinematográfica, sendo conhecida por suas paisagens deslumbrantes."
+		}
+	},
+	{
+		"code": "OM",
+		"country": "Omã",
+		"details": {
+			"population": 5106622,
+			"area": 309500,
+			"gdp": 108000,
+			"capital": "Mascate",
+			"continent": "Ásia",
+			"description": "Omã é um país localizado no Oriente Médio, conhecido por suas praias deslumbrantes, deserto e patrimônio cultural. Sua economia depende do petróleo, mas o turismo e o comércio também desempenham um papel importante."
+		}
+	},
+	{
+		"code": "PA",
+		"country": "Panamá",
+		"details": {
+			"population": 4314768,
+			"area": 75417,
+			"gdp": 83000,
+			"capital": "Cidade do Panamá",
+			"continent": "América Central",
+			"description": "O Panamá é um país na América Central, famoso pelo Canal do Panamá, que conecta os oceanos Atlântico e Pacífico. Sua economia é fortemente baseada no comércio e na navegação."
+		}
+	},
+	{
+		"code": "PE",
+		"country": "Peru",
+		"details": {
+			"population": 31879700,
+			"area": 1285216,
+			"gdp": 267000,
+			"capital": "Lima",
+			"continent": "América do Sul",
+			"description": "O Peru é um país andino na América do Sul, conhecido por sua herança Inca e a cidade de Machu Picchu. Sua economia é baseada na mineração, agricultura e turismo."
+		}
+	},
+	{
+		"code": "PF",
+		"country": "Polinésia Francesa",
+		"details": {
+			"population": 280000,
+			"area": 4167,
+			"gdp": 5800,
+			"capital": "Papeete",
+			"continent": "Oceania",
+			"description": "A Polinésia Francesa é um território ultramarino da França no Pacífico, composto por várias ilhas, sendo uma das principais fontes de turismo de luxo e produção de pérolas."
+		}
+	},
+	{
+		"code": "PG",
+		"country": "Papua-Nova Guiné",
+		"details": {
+			"population": 8800000,
+			"area": 462840,
+			"gdp": 2500,
+			"capital": "Port Moresby",
+			"continent": "Oceania",
+			"description": "A Papua-Nova Guiné é um país na Oceania, conhecido por sua diversidade cultural e étnica, além de uma economia baseada na agricultura, recursos naturais e mineração."
+		}
+	},
+	{
+		"code": "PH",
+		"country": "Filipinas",
+		"details": {
+			"population": 113000000,
+			"area": 300000,
+			"gdp": 437000,
+			"capital": "Manila",
+			"continent": "Ásia",
+			"description": "As Filipinas são um arquipélago no Sudeste Asiático, com uma economia baseada em eletrônicos, remessas de trabalhadores no exterior, turismo e uma indústria crescente de tecnologia."
+		}
+	},
+	{
+		"code": "PK",
+		"country": "Paquistão",
+		"details": {
+			"population": 229000000,
+			"area": 881913,
+			"gdp": 337000,
+			"capital": "Islamabad",
+			"continent": "Ásia",
+			"description": "O Paquistão é um país no Sul da Ásia, com uma economia diversificada, incluindo a agricultura, a indústria têxtil e a manufatura. O país possui uma rica história cultural e religiosa."
+		}
+	},
+	{
+		"code": "PL",
+		"country": "Polônia",
+		"details": {
+			"population": 38386000,
+			"area": 312696,
+			"gdp": 809000,
+			"capital": "Varsóvia",
+			"continent": "Europa",
+			"description": "A Polônia é um país na Europa Central, com uma economia em crescimento e forte nas indústrias de manufatura, mineração e tecnologia, além de um patrimônio cultural rico."
+		}
+	},
+	{
+		"code": "PT",
+		"country": "Portugal",
+		"details": {
+			"population": 10196709,
+			"area": 92090,
+			"gdp": 289000,
+			"capital": "Lisboa",
+			"continent": "Europa",
+			"description": "Portugal é um país do sul da Europa, conhecido por sua cultura, vinhos, gastronomia e turismo. Sua economia é diversificada, com destaque para o turismo e exportação de produtos agrícolas."
+		}
+	},
+	{
+		"code": "PY",
+		"country": "Paraguai",
+		"details": {
+			"population": 7100000,
+			"area": 406750,
+			"gdp": 42900,
+			"capital": "Assunção",
+			"continent": "América do Sul",
+			"description": "O Paraguai é um país no centro da América do Sul, com uma economia focada em agricultura, especialmente soja, carne e energia hidrelétrica. É conhecido por sua política de neutralidade."
+		}
+	},
+	{
+		"code": "QA",
+		"country": "Catar",
+		"details": {
+			"population": 2770000,
+			"area": 11571,
+			"gdp": 213000,
+			"capital": "Doha",
+			"continent": "Ásia",
+			"description": "O Catar é um pequeno país no Golfo Pérsico, com uma economia fortemente baseada no gás natural e petróleo, além de ser um centro financeiro e de investimentos."
+		}
+	},
+	{
+		"code": "RO",
+		"country": "Romênia",
+		"details": {
+			"population": 19237691,
+			"area": 238397,
+			"gdp": 350000,
+			"capital": "Bucareste",
+			"continent": "Europa",
+			"description": "A Romênia é um país no Leste da Europa, com uma economia baseada na indústria, agricultura e serviços, além de um crescente setor de TI e turismo."
+		}
+	},
+	{
+		"code": "RU",
+		"country": "Rússia",
+		"details": {
+			"population": 146599183,
+			"area": 17098242,
+			"gdp": 2021000,
+			"capital": "Moscou",
+			"continent": "Eurásia",
+			"description": "A Rússia é o maior país do mundo, com uma economia baseada principalmente em recursos naturais como petróleo, gás e minerais, além de um setor militar e tecnológico forte."
+		}
+	},
+	{
+		"code": "SA",
+		"country": "Arábia Saudita",
+		"details": {
+			"population": 34813867,
+			"area": 2149690,
+			"gdp": 1068000,
+			"capital": "Riad",
+			"continent": "Ásia",
+			"description": "A Arábia Saudita é um país do Oriente Médio, com uma economia fortemente dependente do petróleo, sendo o maior exportador mundial de petróleo, com grandes projetos de infraestrutura e turismo em crescimento."
+		}
+	},
+	{
+		"code": "SE",
+		"country": "Suécia",
+		"details": {
+			"population": 10327589,
+			"area": 450295,
+			"gdp": 585000,
+			"capital": "Estocolmo",
+			"continent": "Europa",
+			"description": "A Suécia é um país nórdico, conhecido por sua alta qualidade de vida, inovação tecnológica, sustentabilidade e uma economia diversificada com forte presença na indústria e serviços."
+		}
+	},
+	{
+		"code": "SG",
+		"country": "Singapura",
+		"details": {
+			"population": 5635000,
+			"area": 728.6,
+			"gdp": 501400,
+			"capital": "Singapura",
+			"continent": "Ásia",
+			"description": "Singapura é uma cidade-estado altamente desenvolvida, conhecida por seu forte setor financeiro, porto movimentado e políticas de habitação e infraestrutura exemplares."
+		}
+	},
+	{
+		"code": "TH",
+		"country": "Tailândia",
+		"details": {
+			"population": 70000000,
+			"area": 513120,
+			"gdp": 515000,
+			"capital": "Bangcoc",
+			"continent": "Ásia",
+			"description": "A Tailândia é conhecida por suas praias paradisíacas, templos budistas e culinária renomada, com uma economia baseada em turismo, agricultura e indústria."
+		}
+	},
+	{
+		"code": "TR",
+		"country": "Turquia",
+		"details": {
+			"population": 83000000,
+			"area": 783356,
+			"gdp": 1118000,
+			"capital": "Ancara",
+			"continent": "Ásia/Europa",
+			"description": "A Turquia é um país transcontinental, rica em história, cultura e arquitetura. Sua economia é diversificada, com setores em crescimento como turismo, automóveis e indústria têxtil."
+		}
+	},
+	{
+		"code": "UA",
+		"country": "Ucrânia",
+		"details": {
+			"population": 41700000,
+			"area": 603550,
+			"gdp": 178800,
+			"capital": "Quieve",
+			"continent": "Europa",
+			"description": "A Ucrânia é um país no Leste Europeu, com uma economia agrícola robusta e um setor industrial significativo, além de uma história marcada por lutas políticas e territoriais."
+		}
+	},
+	{
+		"code": "US",
+		"country": "Estados Unidos",
+		"details": {
+			"population": 331000000,
+			"area": 9833517,
+			"gdp": 27000000,
+			"capital": "Washington, D.C.",
+			"continent": "América do Norte",
+			"description": "Os Estados Unidos são uma superpotência global com uma economia diversificada, um dos maiores PIBs do mundo, com forte presença nos setores de tecnologia, serviços financeiros e indústria."
+		}
+	},
+	{
+		"code": "UY",
+		"country": "Uruguai",
+		"details": {
+			"population": 3500000,
+			"area": 176215,
+			"gdp": 77000,
+			"capital": "Montevidéu",
+			"continent": "América do Sul",
+			"description": "O Uruguai é um país pequeno e pacífico, conhecido por sua alta qualidade de vida, sistema de bem-estar social e uma economia estável, com foco na agricultura e serviços."
+		}
+	},
+	{
+		"code": "VE",
+		"country": "Venezuela",
+		"details": {
+			"population": 28000000,
+			"area": 916445,
+			"gdp": 92000,
+			"capital": "Caracas",
+			"continent": "América do Sul",
+			"description": "A Venezuela, rica em petróleo, enfrenta crises políticas e econômicas, mas continua sendo um país com grande diversidade geográfica e cultural, incluindo a maior cachoeira do mundo."
+		}
+	},
+	{
+		"code": "VN",
+		"country": "Vietnã",
+		"details": {
+			"population": 96000000,
+			"area": 331210,
+			"gdp": 8000,
+			"capital": "Hanói",
+			"continent": "Ásia",
+			"description": "O Vietnã é um país no Sudeste Asiático, conhecido por sua história de resistência e modernização econômica. Sua economia tem crescido consideravelmente, especialmente em manufatura e exportação."
+		}
+	},
+	{
+		"code": "ZA",
+		"country": "África do Sul",
+		"details": {
+			"population": 60000000,
+			"area": 1219090,
+			"gdp": 380000,
+			"capital": "Pretória",
+			"continent": "África",
+			"description": "A África do Sul é a nação mais desenvolvida do continente africano, com uma economia diversificada e rica em recursos naturais, como ouro, diamantes e platina."
+		}
+	},
+	{
+		"code": "ZM",
+		"country": "Zâmbia",
+		"details": {
+			"population": 19000000,
+			"area": 752612,
+			"gdp": 6000,
+			"capital": "Lusaka",
+			"continent": "África",
+			"description": "A Zâmbia é um país da África Austral, conhecido por suas minas de cobre e belas paisagens naturais, incluindo as Cataratas Vitória, uma das maiores quedas d'água do mundo."
+		}
+	},
+	{
+		"code": "ZW",
+		"country": "Zimbábue",
+		"details": {
+			"population": 15000000,
+			"area": 390757,
+			"gdp": 1500,
+			"capital": "Harare",
+			"continent": "África",
+			"description": "O Zimbábue tem uma economia rica em recursos naturais, como ouro e diamantes, mas enfrenta desafios econômicos e políticos significativos nos últimos anos."
+		}
+	}
+]
