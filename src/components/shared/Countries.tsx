@@ -70,7 +70,7 @@ const Countries = () => {
 	};
 
 	return (
-		<div className='flex h-screen flex-col items-center justify-center gap-2 bg-amber-100'>
+		<div className='flex min-h-screen flex-col items-center justify-center gap-2 bg-amber-100 overflow-y-auto'>
 			<Points />
 
 			{pastCountries.length <= 24 && (

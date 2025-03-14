@@ -35,7 +35,7 @@ const SideListItem = ({ country }: Props) => {
 			className='hover:border-border group cursor-default border-b border-transparent bg-white p-1 duration-300'>
 			<p className='duration-300 group-hover:opacity-70'>{country.country}</p>
 			{showFlag && (
-				<div className='absolute top-0 left-full h-screen w-72 bg-white p-4 shadow'>
+				<div className='absolute top-0 left-full h-screen md:w-72 w-[50dvw] bg-white p-4 shadow overflow-y-auto'>
 					<h5 className='text-primary text-center text-lg'>Detalhes</h5>
 
 					<h5 className='mx-auto my-4 w-max max-w-full text-center font-medium underline underline-offset-2'>{country.country}</h5>

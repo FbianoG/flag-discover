@@ -21,7 +21,7 @@ const SideList = () => {
 				className='fixed top-4 left-4 cursor-pointer rounded-full bg-white p-2 shadow duration-300 hover:bg-neutral-50 active:scale-95'>
 				<CiCircleList size={30} />
 			</button>
-			<div style={{ left: showList ? 0 : '' }} className='fixed top-0 -left-72 h-screen w-72 bg-white p-4 pr-0 shadow duration-300'>
+			<div style={{ left: showList ? 0 : '' }} className='fixed top-0 -left-72 h-screen md:w-72 w-[50dvw] bg-white p-4 pr-0 shadow duration-300 '>
 				<button
 					title='Fechar Lista'
 					onClick={() => setShowList(false)}
