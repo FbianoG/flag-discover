@@ -118,7 +118,7 @@ const Brands = () => {
 			)}
 
 			<div className='rounded border bg-white p-1 md:p-4'>
-				<h2 className='text-primary text-center text-lg md:text-2xl'>{pastBrands.length <= 24 ? 'Qual o país corresponde a essa bandeira?' : 'Fim do jogo'}</h2>
+				<h2 className='text-primary text-center text-lg md:text-2xl'>{pastBrands.length <= 24 ? 'Qual o marca corresponde a essa imagem?' : 'Fim do jogo'}</h2>
 			</div>
 
 			<div className='mt-4 flex flex-col gap-3'>
