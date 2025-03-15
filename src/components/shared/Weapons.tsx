@@ -98,7 +98,7 @@ const Weapons = () => {
 			{pastWeapons.length < 25 && (
 				<div className='grid h-[300px] place-items-center'>
 					<div className='rounded border bg-white'>
-						<Image loading='lazy' width={350} height={280} alt='' src={`/img/${currentWeapon?.code.toLocaleLowerCase()}.webp`} className='border object-cover' />
+						<Image loading='lazy' width={350} height={280} alt='' src={`/img/${currentWeapon?.code}.webp`} className='border object-cover' />
 					</div>
 				</div>
 			)}
