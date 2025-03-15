@@ -25,7 +25,7 @@ const Brands = () => {
 
 	useEffect(() => {
 		(async () => {
-			const response = await fetch('/json/Brands.json');
+			const response = await fetch('/json/brands.json');
 			const data = await response.json();
 			const sortData = data.sort((a: IBrand, b: IBrand) => a.name.localeCompare(b.name));
 			setBrands(sortData);
@@ -122,7 +122,7 @@ const Brands = () => {
 			</div>
 
 			<div className='mt-4 flex flex-col gap-3'>
-				{pastBrands.length <= 24 &&
+				{pastBrands.length < 25 &&
 					options?.map((option, index) => <Option key={option.code} index={index} option={option} handleSelect={handleSelect} loading={loading} />)}
 			</div>
 
