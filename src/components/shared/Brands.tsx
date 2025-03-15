@@ -109,7 +109,7 @@ const Brands = () => {
 							width={250}
 							height={250}
 							alt=''
-							src={`/img/${currentBrand?.code.toLocaleLowerCase()}.webp`}
+							src={`/img/${currentBrand?.code}.webp`}
 							className='hidden max-h-[250px] border md:block'
 						/>
 						<Image loading='lazy' width={250} height={250} alt='' src={`/img/${currentBrand?.code}.webp`} className='border md:hidden' />
