@@ -72,7 +72,7 @@ const SideListItem = ({ item }: Props) => {
 						{'caliber' in item.details && (
 							<>
 								<div className=''>
-									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code.toLocaleLowerCase()}.webp`} className='' />
+									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code}.webp`} className='' />
 								</div>
 								<Describle title='Descrição' text={item.details.description} icon={<CiTextAlignCenter />} />
 								<Describle title='Tipo' text={item.details.type} icon={<GiPistolGun />} />
@@ -87,7 +87,7 @@ const SideListItem = ({ item }: Props) => {
 						{'segment' in item.details && (
 							<>
 								<div className=''>
-									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code.toLocaleLowerCase()}.webp`} className='' />
+									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code}.webp`} className='' />
 								</div>
 								<Describle title='Descrição' text={item.details.description} icon={<CiTextAlignCenter />} />
 								<Describle title='País' text={item.details.country} icon={<PiGlobeHemisphereWestLight />} />
