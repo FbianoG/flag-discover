@@ -1,0 +1,322 @@
+[
+    {
+        "code": "M1",
+        "name": "Apple",
+        "details": {
+            "description": "Empresa americana que desenvolve eletrônicos de consumo, softwares e serviços.",
+            "year": 1976,
+            "segment": "Tecnologia",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M2",
+        "name": "Nike",
+        "details": {
+            "description": "Marca global de roupas, calçados e equipamentos esportivos.",
+            "year": 1964,
+            "segment": "Moda e Esportes",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M3",
+        "name": "Coca-Cola",
+        "details": {
+            "description": "Fabricante de bebidas, mais conhecida por sua famosa bebida refrigerante.",
+            "year": 1886,
+            "segment": "Alimentos e Bebidas",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M4",
+        "name": "Samsung",
+        "details": {
+            "description": "Conglomerado multinacional sul-coreano, especializado em produtos eletrônicos.",
+            "year": 1938,
+            "segment": "Tecnologia",
+            "country": "Coreia do Sul"
+        }
+    },
+    {
+        "code": "M5",
+        "name": "Toyota",
+        "details": {
+            "description": "Fabricante automotiva globalmente reconhecida, famosa por seus carros e inovações no setor.",
+            "year": 1937,
+            "segment": "Automobilismo",
+            "country": "Japão"
+        }
+    },
+    {
+        "code": "M6",
+        "name": "Google",
+        "details": {
+            "description": "Empresa especializada em serviços de busca na web, publicidade online, software e hardware.",
+            "year": 1998,
+            "segment": "Tecnologia",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M7",
+        "name": "Tesla",
+        "details": {
+            "description": "Fabricante de veículos elétricos e soluções de energia renovável.",
+            "year": 2003,
+            "segment": "Automobilismo e Energia",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M8",
+        "name": "Amazon",
+        "details": {
+            "description": "Comércio eletrônico e serviços de computação em nuvem.",
+            "year": 1994,
+            "segment": "Comércio e Tecnologia",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M9",
+        "name": "McDonald's",
+        "details": {
+            "description": "Rede multinacional de fast-food, conhecida por seus hambúrgueres e batatas fritas.",
+            "year": 1940,
+            "segment": "Alimentação",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M10",
+        "name": "Sony",
+        "details": {
+            "description": "Empresa multinacional que desenvolve produtos eletrônicos, mídia e jogos.",
+            "year": 1946,
+            "segment": "Tecnologia e Entretenimento",
+            "country": "Japão"
+        }
+    },
+    {
+        "code": "M11",
+        "name": "BMW",
+        "details": {
+            "description": "Fabricante alemão de automóveis de luxo e motocicletas.",
+            "year": 1916,
+            "segment": "Automobilismo",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M12",
+        "name": "Louis Vuitton",
+        "details": {
+            "description": "Marca francesa de artigos de luxo, especializada em malas e acessórios de moda.",
+            "year": 1854,
+            "segment": "Moda de Luxo",
+            "country": "França"
+        }
+    },
+    {
+        "code": "M13",
+        "name": "Microsoft",
+        "details": {
+            "description": "Gigante de software e tecnologia, conhecida por seu sistema operacional Windows e a suíte Office.",
+            "year": 1975,
+            "segment": "Tecnologia",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M14",
+        "name": "Adidas",
+        "details": {
+            "description": "Marca alemã famosa por seus artigos esportivos e roupas.",
+            "year": 1949,
+            "segment": "Moda e Esportes",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M15",
+        "name": "Facebook",
+        "details": {
+            "description": "Rede social global, agora parte do Meta, voltada para a conexão de pessoas e criação de comunidades.",
+            "year": 2004,
+            "segment": "Tecnologia e Mídia Social",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M16",
+        "name": "Pepsi",
+        "details": {
+            "description": "Fabricante de bebidas carbonatadas, rival da Coca-Cola.",
+            "year": 1893,
+            "segment": "Alimentos e Bebidas",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M17",
+        "name": "Huawei",
+        "details": {
+            "description": "Empresa chinesa que desenvolve produtos de telecomunicações e smartphones.",
+            "year": 1987,
+            "segment": "Tecnologia",
+            "country": "China"
+        }
+    },
+    {
+        "code": "M20",
+        "name": "Ford",
+        "details": {
+            "description": "Uma das maiores fabricantes de automóveis do mundo, pioneira na produção em massa.",
+            "year": 1903,
+            "segment": "Automobilismo",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M21",
+        "name": "Ferrari",
+        "details": {
+            "description": "Marca italiana de carros esportivos de luxo, conhecida pela sua performance e exclusividade.",
+            "year": 1939,
+            "segment": "Automobilismo de Luxo",
+            "country": "Itália"
+        }
+    },
+    {
+        "code": "M22",
+        "name": "Honda",
+        "details": {
+            "description": "Fabricante japonesa de automóveis, motocicletas e equipamentos de força.",
+            "year": 1948,
+            "segment": "Automobilismo e Moto",
+            "country": "Japão"
+        }
+    },
+    {
+        "code": "M24",
+        "name": "Gucci",
+        "details": {
+            "description": "Marca italiana de luxo, conhecida por seus acessórios, roupas e bolsas sofisticadas.",
+            "year": 1921,
+            "segment": "Moda de Luxo",
+            "country": "Itália"
+        }
+    },
+    {
+        "code": "M26",
+        "name": "Porsche",
+        "details": {
+            "description": "Marca alemã de carros esportivos de alto desempenho e luxo.",
+            "year": 1931,
+            "segment": "Automobilismo de Luxo",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M29",
+        "name": "Spotify",
+        "details": {
+            "description": "Plataforma de streaming de música e podcasts.",
+            "year": 2006,
+            "segment": "Tecnologia e Entretenimento",
+            "country": "Suécia"
+        }
+    },
+    {
+        "code": "M33",
+        "name": "Mercedes-Benz",
+        "details": {
+            "description": "Marca alemã de automóveis de luxo, famosa por sua qualidade e inovação.",
+            "year": 1926,
+            "segment": "Automobilismo de Luxo",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M35",
+        "name": "Audi",
+        "details": {
+            "description": "Fabricante alemã de automóveis de luxo, conhecida por sua tecnologia e design.",
+            "year": 1909,
+            "segment": "Automobilismo de Luxo",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M36",
+        "name": "Lexus",
+        "details": {
+            "description": "Marca de carros de luxo da Toyota, famosa por seu conforto e desempenho.",
+            "year": 1989,
+            "segment": "Automobilismo de Luxo",
+            "country": "Japão"
+        }
+    },
+    {
+        "code": "M48",
+        "name": "Chevrolet",
+        "details": {
+            "description": "Uma das maiores marcas de automóveis dos Estados Unidos, oferecendo uma ampla gama de carros e caminhões.",
+            "year": 1911,
+            "segment": "Automóveis",
+            "country": "EUA"
+        }
+    },
+    {
+        "code": "M50",
+        "name": "Lamborghini",
+        "details": {
+            "description": "Marca italiana de carros superesportivos, famosa por modelos icônicos como o Aventador.",
+            "year": 1963,
+            "segment": "Automóveis de Luxo e Superesportivos",
+            "country": "Itália"
+        }
+    },
+    {
+        "code": "M52",
+        "name": "Volkswagen",
+        "details": {
+            "description": "Fabricante alemão de automóveis, conhecida por modelos como o Golf, Passat e o clássico Fusca.",
+            "year": 1937,
+            "segment": "Automóveis",
+            "country": "Alemanha"
+        }
+    },
+    {
+        "code": "M53",
+        "name": "Renault",
+        "details": {
+            "description": "Marca francesa conhecida por sua variedade de modelos acessíveis e inovadores.",
+            "year": 1899,
+            "segment": "Automóveis",
+            "country": "França"
+        }
+    },
+    {
+        "code": "M54",
+        "name": "Peugeot",
+        "details": {
+            "description": "Fabricante francesa de automóveis, famosa por seus carros compactos e eficientes.",
+            "year": 1810,
+            "segment": "Automóveis",
+            "country": "França"
+        }
+    },
+    {
+        "code": "M56",
+        "name": "Mitsubishi",
+        "details": {
+            "description": "Fabricante japonesa de automóveis, famosa por seus SUVs e veículos 4x4.",
+            "year": 1970,
+            "segment": "Automóveis",
+            "country": "Japão"
+        }
+    }
+]

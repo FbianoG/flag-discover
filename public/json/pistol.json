@@ -1,0 +1,184 @@
+[
+    {
+        "code": "P1",
+        "name": "Glock 17",
+        "details": {
+            "manufacturer": "Glock",
+            "type": "Pistola",
+            "country": "Áustria",
+            "caliber": "9mm",
+            "capacity": 17,
+            "weight": 0.625,
+            "description": "Uma das pistolas mais populares do mundo, conhecida por sua confiabilidade e leveza."
+        }
+    },
+    {
+        "code": "P2",
+        "name": "Colt M1911",
+        "details": {
+            "manufacturer": "Colt",
+            "type": "Pistola",
+            "country": "EUA",
+            "caliber": ".45 ACP",
+            "capacity": 7,
+            "weight": 1.36,
+            "description": "Clássica pistola americana usada desde a Primeira Guerra Mundial."
+        }
+    },
+    {
+        "code": "P3",
+        "name": "Beretta 92FS",
+        "details": {
+            "manufacturer": "Beretta",
+            "type": "Pistola",
+            "country": "Itália",
+            "caliber": "9mm",
+            "capacity": 15,
+            "weight": 0.945,
+            "description": "Pistola amplamente usada por forças militares e policiais ao redor do mundo."
+        }
+    },
+    {
+        "code": "P4",
+        "name": "SIG Sauer P226",
+        "details": {
+            "manufacturer": "SIG Sauer",
+            "type": "Pistola",
+            "country": "Suíça",
+            "caliber": "9mm",
+            "capacity": 15,
+            "weight": 0.964,
+            "description": "Pistola de alta precisão e confiabilidade, muito utilizada por forças especiais."
+        }
+    },
+    {
+        "code": "P5",
+        "name": "CZ 75",
+        "details": {
+            "manufacturer": "Česká Zbrojovka",
+            "type": "Pistola",
+            "country": "República Tcheca",
+            "caliber": "9mm",
+            "capacity": 16,
+            "weight": 1.1,
+            "description": "Uma das pistolas mais bem avaliadas devido à sua precisão e ergonomia."
+        }
+    },
+    {
+        "code": "P6",
+        "name": "HK USP",
+        "details": {
+            "manufacturer": "Heckler & Koch",
+            "type": "Pistola",
+            "country": "Alemanha",
+            "caliber": ".40 S&W",
+            "capacity": 13,
+            "weight": 0.720,
+            "description": "Pistola de uso policial e militar, famosa por sua durabilidade."
+        }
+    },
+    {
+        "code": "P7",
+        "name": "Walther PPK",
+        "details": {
+            "manufacturer": "Walther",
+            "type": "Pistola",
+            "country": "Alemanha",
+            "caliber": ".380 ACP",
+            "capacity": 7,
+            "weight": 0.590,
+            "description": "Pistola compacta icônica, usada por agentes secretos e celebrizada nos filmes de James Bond."
+        }
+    },
+    {
+        "code": "P8",
+        "name": "Taurus PT 92",
+        "details": {
+            "manufacturer": "Taurus",
+            "type": "Pistola",
+            "country": "Brasil",
+            "caliber": "9mm",
+            "capacity": 17,
+            "weight": 0.960,
+            "description": "Versão brasileira da Beretta 92, amplamente utilizada no Brasil."
+        }
+    },
+    {
+        "code": "P9",
+        "name": "Springfield XD",
+        "details": {
+            "manufacturer": "Springfield Armory",
+            "type": "Pistola",
+            "country": "EUA",
+            "caliber": "9mm",
+            "capacity": 16,
+            "weight": 0.765,
+            "description": "Pistola moderna e ergonômica, com múltiplos sistemas de segurança."
+        }
+    },
+    {
+        "code": "P10",
+        "name": "FN Five-seveN",
+        "details": {
+            "manufacturer": "FN Herstal",
+            "type": "Pistola",
+            "country": "Bélgica",
+            "caliber": "5.7x28mm",
+            "capacity": 20,
+            "weight": 0.744,
+            "description": "Pistola com munição de alta velocidade, usada por forças militares e policiais."
+        }
+    },
+    {
+        "code": "P11",
+        "name": "Ruger SR1911",
+        "details": {
+            "manufacturer": "Ruger",
+            "type": "Pistola",
+            "country": "EUA",
+            "caliber": ".45 ACP",
+            "capacity": 8,
+            "weight": 1.08,
+            "description": "Pistola baseada no design clássico da M1911, com melhorias modernas."
+        }
+    },
+    {
+        "code": "P12",
+        "name": "Canik TP9",
+        "details": {
+            "manufacturer": "Canik",
+            "type": "Pistola",
+            "country": "Turquia",
+            "caliber": "9mm",
+            "capacity": 18,
+            "weight": 0.800,
+            "description": "Pistola turca de alta performance, elogiada pelo seu custo-benefício."
+        }
+    },
+    {
+        "code": "P13",
+        "name": "Desert Eagle",
+        "details": {
+            "manufacturer": "Magnum Research",
+            "type": "Pistola",
+            "country": "Israel",
+            "caliber": ".50 AE",
+            "capacity": 7,
+            "weight": 2.1,
+            "description": "Uma das pistolas mais potentes do mundo, famosa por seu tamanho e impacto."
+        }
+    },
+    {
+        "code": "P14",
+        "name": "Smith & Wesson M&P9",
+        "details": {
+            "manufacturer": "Smith & Wesson",
+            "type": "Pistola",
+            "country": "EUA",
+            "caliber": "9mm",
+            "capacity": 17,
+            "weight": 0.680,
+            "description": "Pistola moderna desenvolvida para forças policiais e uso civil."
+        }
+    }
+]

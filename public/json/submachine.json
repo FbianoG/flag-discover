@@ -1,0 +1,122 @@
+[
+    {
+        "name": "MP5",
+        "manufacturer": "Heckler & Koch",
+        "type": "Submetralhadora",
+        "country": "Alemanha",
+        "caliber": "9mm",
+        "capacity": 30,
+        "weight": 2.88,
+        "description": "Uma das submetralhadoras mais famosas do mundo, amplamente usada por forças especiais."
+    },
+    {
+        "name": "Uzi",
+        "manufacturer": "IMI (Israel Military Industries)",
+        "type": "Submetralhadora",
+        "country": "Israel",
+        "caliber": "9mm",
+        "capacity": 32,
+        "weight": 3.5,
+        "description": "Compacta e robusta, foi amplamente utilizada por militares e forças policiais."
+    },
+    {
+        "name": "P90",
+        "manufacturer": "FN Herstal",
+        "type": "Submetralhadora bullpup",
+        "country": "Bélgica",
+        "caliber": "5.7x28mm",
+        "capacity": 50,
+        "weight": 2.6,
+        "description": "Arma com design futurista, conhecida pelo seu carregador exclusivo e alta cadência de tiro."
+    },
+    {
+        "name": "MP7",
+        "manufacturer": "Heckler & Koch",
+        "type": "Submetralhadora",
+        "country": "Alemanha",
+        "caliber": "4.6x30mm",
+        "capacity": 40,
+        "weight": 1.9,
+        "description": "Submetralhadora compacta projetada para perfurar coletes balísticos modernos."
+    },
+    {
+        "name": "Scorpion EVO 3",
+        "manufacturer": "Česká Zbrojovka",
+        "type": "Submetralhadora",
+        "country": "República Tcheca",
+        "caliber": "9mm",
+        "capacity": 30,
+        "weight": 2.77,
+        "description": "Moderna e ergonômica, amplamente usada por forças policiais e militares."
+    },
+    {
+        "name": "MAC-10",
+        "manufacturer": "Military Armament Corporation",
+        "type": "Submetralhadora",
+        "country": "EUA",
+        "caliber": ".45 ACP",
+        "capacity": 30,
+        "weight": 2.84,
+        "description": "Pequena e de alta cadência de tiro, ficou famosa em filmes e videogames."
+    },
+    {
+        "name": "PP-19 Bizon",
+        "manufacturer": "Kalashnikov Concern",
+        "type": "Submetralhadora",
+        "country": "Rússia",
+        "caliber": "9mm",
+        "capacity": 64,
+        "weight": 2.1,
+        "description": "Destaca-se pelo seu carregador helicoidal, permitindo grande capacidade de munição."
+    },
+    {
+        "name": "PPSh-41",
+        "manufacturer": "TsKB-14",
+        "type": "Submetralhadora",
+        "country": "União Soviética",
+        "caliber": "7.62x25mm",
+        "capacity": 71,
+        "weight": 3.63,
+        "description": "Amplamente usada na Segunda Guerra Mundial, famosa por sua alta cadência de tiro."
+    },
+    {
+        "name": "KRISS Vector",
+        "manufacturer": "KRISS USA",
+        "type": "Submetralhadora",
+        "country": "EUA",
+        "caliber": ".45 ACP",
+        "capacity": 25,
+        "weight": 2.9,
+        "description": "Possui um inovador sistema de recuo que melhora a precisão em disparos automáticos."
+    },
+    {
+        "name": "MP9",
+        "manufacturer": "Brügger & Thomet",
+        "type": "Submetralhadora",
+        "country": "Suíça",
+        "caliber": "9mm",
+        "capacity": 30,
+        "weight": 1.4,
+        "description": "Uma submetralhadora compacta e moderna, ideal para operações táticas."
+    },
+    {
+        "name": "Sterling L2A3",
+        "manufacturer": "Sterling Armament Company",
+        "type": "Submetralhadora",
+        "country": "Reino Unido",
+        "caliber": "9mm",
+        "capacity": 34,
+        "weight": 2.7,
+        "description": "Submetralhadora confiável usada pelo exército britânico durante a Guerra Fria."
+    },
+    {
+        "name": "MPL",
+        "manufacturer": "Walther",
+        "type": "Submetralhadora",
+        "country": "Alemanha",
+        "caliber": "9mm",
+        "capacity": 32,
+        "weight": 3.0,
+        "description": "Utilizada por forças de segurança alemãs, conhecida por sua durabilidade."
+    }
+]

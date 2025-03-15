@@ -1,0 +1,223 @@
+[
+    {
+        "code": "F1",
+        "name": "AK-47",
+        "details": {
+            "manufacturer": "Kalashnikov Concern",
+            "type": "Fuzil",
+            "country": "Rússia",
+            "caliber": "7.62x39mm",
+            "capacity": 30,
+            "weight": 3.47,
+            "description": "Um dos fuzis mais icônicos e utilizados no mundo, famoso por sua durabilidade e simplicidade."
+        }
+    },
+    {
+        "code": "F2",
+        "name": "M4A1",
+        "details": {
+            "manufacturer": "Colt",
+            "type": "Fuzil",
+            "country": "EUA",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 2.88,
+            "description": "Fuzil padrão das forças armadas dos EUA, conhecido por sua precisão e modularidade."
+        }
+    },
+    {
+        "code": "F3",
+        "name": "FN SCAR-H",
+        "details": {
+            "manufacturer": "FN Herstal",
+            "type": "Fuzil",
+            "country": "Bélgica",
+            "caliber": "7.62x51mm",
+            "capacity": 20,
+            "weight": 3.86,
+            "description": "Fuzil moderno usado por forças especiais, projetado para precisão e resistência."
+        }
+    },
+    {
+        "code": "F4",
+        "name": "HK G36",
+        "details": {
+            "manufacturer": "Heckler & Koch",
+            "type": "Fuzil",
+            "country": "Alemanha",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.63,
+            "description": "Fuzil leve e ergonômico, amplamente utilizado por forças militares europeias."
+        }
+    },
+    {
+        "code": "F5",
+        "name": "IMI Galil",
+        "details": {
+            "manufacturer": "IMI (Israel Military Industries)",
+            "type": "Fuzil",
+            "country": "Israel",
+            "caliber": "5.56x45mm",
+            "capacity": 35,
+            "weight": 3.95,
+            "description": "Fuzil baseado no AK-47, desenvolvido para resistência em ambientes áridos."
+        }
+    },
+    {
+        "code": "F6",
+        "name": "Tavor X95",
+        "details": {
+            "manufacturer": "IWI (Israel Weapon Industries)",
+            "type": "Fuzil",
+            "country": "Israel",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.4,
+            "description": "Fuzil compacto e moderno, amplamente utilizado pelas forças israelenses."
+        }
+    },
+    {
+        "code": "F7",
+        "name": "FAMAS",
+        "details": {
+            "manufacturer": "GIAT Industries",
+            "type": "Fuzil",
+            "country": "França",
+            "caliber": "5.56x45mm",
+            "capacity": 25,
+            "weight": 3.61,
+            "description": "Fuzil característico do exército francês, conhecido pelo design bullpup."
+        }
+    },
+    {
+        "code": "F8",
+        "name": "Steyr AUG",
+        "details": {
+            "manufacturer": "Steyr Mannlicher",
+            "type": "Fuzil",
+            "country": "Áustria",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.3,
+            "description": "Fuzil modular e futurista, usado por várias forças militares pelo mundo."
+        }
+    },
+    {
+        "code": "F9",
+        "name": "SIG SG 550",
+        "details": {
+            "manufacturer": "SIG Sauer",
+            "type": "Fuzil",
+            "country": "Suíça",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 4.1,
+            "description": "Fuzil de precisão suíço, conhecido por sua alta qualidade de construção."
+        }
+    },
+    {
+        "code": "F11",
+        "name": "Beretta ARX160",
+        "details": {
+            "manufacturer": "Beretta",
+            "type": "Fuzil",
+            "country": "Itália",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.0,
+            "description": "Fuzil modular com alta resistência e fácil manutenção."
+        }
+    },
+    {
+        "code": "F12",
+        "name": "L85A2",
+        "details": {
+            "manufacturer": "Enfield",
+            "type": "Fuzil",
+            "country": "Reino Unido",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 4.98,
+            "description": "Fuzil padrão das forças britânicas, com design bullpup compacto."
+        }
+    },
+    {
+        "code": "F13",
+        "name": "AR-15",
+        "details": {
+            "manufacturer": "Vários fabricantes",
+            "type": "Fuzil",
+            "country": "EUA",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 2.9,
+            "description": "Popular entre civis e forças de segurança, com inúmeras variações e customizações."
+        }
+    },
+    {
+        "code": "F14",
+        "name": "FN FAL",
+        "details": {
+            "manufacturer": "FN Herstal",
+            "type": "Fuzil",
+            "country": "Bélgica",
+            "caliber": "7.62x51mm",
+            "capacity": 20,
+            "weight": 4.45,
+            "description": "Conhecido como 'braço direito do mundo livre', amplamente usado no século XX."
+        }
+    },
+    {
+        "code": "F15",
+        "name": "HK416",
+        "details": {
+            "manufacturer": "Heckler & Koch",
+            "type": "Fuzil",
+            "country": "Alemanha",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.52,
+            "description": "Baseado no M4, mas com um sistema de pistão mais confiável e resistente."
+        }
+    },
+    {
+        "code": "F16",
+        "name": "CZ Bren 2",
+        "details": {
+            "manufacturer": "Česká Zbrojovka",
+            "type": "Fuzil",
+            "country": "República Tcheca",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.25,
+            "description": "Fuzil moderno e modular, utilizado por forças especiais."
+        }
+    },
+    {
+        "code": "F17",
+        "name": "QBZ-95",
+        "details": {
+            "manufacturer": "Norinco",
+            "type": "Fuzil",
+            "country": "China",
+            "caliber": "5.8x42mm",
+            "capacity": 30,
+            "weight": 3.25,
+            "description": "Fuzil padrão do exército chinês, com design bullpup e calibre exclusivo."
+        }
+    },
+    {
+        "code": "F18",
+        "name": "K2",
+        "details": {
+            "manufacturer": "Daewoo Precision Industries",
+            "type": "Fuzil",
+            "country": "Coreia do Sul",
+            "caliber": "5.56x45mm",
+            "capacity": 30,
+            "weight": 3.26,
+            "description": "Fuzil de fabricação sul-coreana, amplamente usado por suas forças armadas."
+        }
+    }
+]

@@ -10,13 +10,23 @@ import { BsPeople } from 'react-icons/bs';
 import { PiResizeLight } from 'react-icons/pi';
 import { PiCurrencyCircleDollar } from 'react-icons/pi';
 import { CiTextAlignCenter } from 'react-icons/ci';
+import { IWeapon } from '@/interface/IWeapon';
+import Image from 'next/image';
+import { GiMachineGunMagazine } from 'react-icons/gi';
+import { RiWeightLine } from 'react-icons/ri';
+import { SlTarget } from 'react-icons/sl';
+import { MdOutlinePrecisionManufacturing } from 'react-icons/md';
+import { GiPistolGun } from 'react-icons/gi';
+import { IBrand } from '@/interface/IBrand';
+import { PiLineSegmentsBold } from "react-icons/pi";
+import { IoCalendarOutline } from "react-icons/io5";
 
 interface Props {
-	country: ICountry;
+	item: ICountry | IWeapon | IBrand;
 }
 
-const SideListItem = ({ country }: Props) => {
-	const [showFlag, setShowFlag] = useState<boolean>(false);
+const SideListItem = ({ item }: Props) => {
+	const [showDetails, setShowDetails] = useState<boolean>(false);
 
 	const Describle = ({ title, text, icon }: { title: string; text: string; icon: any }) => (
 		<div>
@@ -30,31 +40,61 @@ const SideListItem = ({ country }: Props) => {
 
 	return (
 		<li
-			onMouseEnter={() => setShowFlag(true)}
-			onMouseLeave={() => setShowFlag(false)}
+			onMouseEnter={() => setShowDetails(true)}
+			onMouseLeave={() => setShowDetails(false)}
 			className='hover:border-border group cursor-default border-b border-transparent bg-white p-1 duration-300'>
-			<p className='duration-300 group-hover:opacity-70'>{country.country}</p>
-			{showFlag && (
+			<p className='duration-300 group-hover:opacity-70'>{item.name}</p>
+			{showDetails && (
 				<div className='absolute top-0 left-full h-screen w-[50dvw] overflow-y-auto bg-white p-4 shadow md:w-72'>
 					<h5 className='text-primary text-center text-lg'>Detalhes</h5>
 
-					<h5 className='mx-auto my-4 w-max max-w-full text-center font-medium underline underline-offset-2'>{country.country}</h5>
+					<h5 className='mx-auto my-4 w-max max-w-full text-center font-medium underline underline-offset-2'>{item.name}</h5>
 
 					<div className='flex flex-col gap-2'>
-						<div className=''>
-							<img src={`/svg/${country.code.toLocaleLowerCase()}.svg`} alt='' />
-						</div>
+						{'continent' in item.details && (
+							<>
+								<div className=''>
+									<img src={`/svg/${item.code.toLocaleLowerCase()}.svg`} alt='' />
+								</div>
+								<Describle title='Descrição' text={item.details.description} icon={<CiTextAlignCenter />} />
+								<Describle title='Região' text={item.details.continent} icon={<PiGlobeHemisphereWestLight />} />
+								<Describle title='Capital' text={item.details.capital} icon={<CiLocationOn />} />
+								<Describle title='População' text={Number(item.details.population).toLocaleString('pt-BR')} icon={<BsPeople />} />
+								<Describle title='Dimensão' text={Number(item.details.area).toLocaleString('pt-BR') + ' km²'} icon={<PiResizeLight />} />
+								<Describle
+									title='PIB'
+									text={'USD ' + Number(item.details.gdp * 1000000).toLocaleString('pt-BR', { currency: 'USD' })}
+									icon={<PiCurrencyCircleDollar />}
+								/>
+							</>
+						)}
 
-						<Describle title='Descrição' text={country.details.description} icon={<CiTextAlignCenter />} />
-						<Describle title='Região' text={country.details.continent} icon={<PiGlobeHemisphereWestLight />} />
-						<Describle title='Capital' text={country.details.capital} icon={<CiLocationOn />} />
-						<Describle title='População' text={Number(country.details.population).toLocaleString('pt-BR')} icon={<BsPeople />} />
-						<Describle title='Dimensão' text={Number(country.details.area).toLocaleString('pt-BR') + ' km²'} icon={<PiResizeLight />} />
-						<Describle
-							title='PIB'
-							text={'USD ' + Number(country.details.gdp * 1000000).toLocaleString('pt-BR', { currency: 'USD' })}
-							icon={<PiCurrencyCircleDollar />}
-						/>
+						{'caliber' in item.details && (
+							<>
+								<div className=''>
+									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code.toLocaleLowerCase()}.webp`} className='' />
+								</div>
+								<Describle title='Descrição' text={item.details.description} icon={<CiTextAlignCenter />} />
+								<Describle title='Tipo' text={item.details.type} icon={<GiPistolGun />} />
+								<Describle title='País' text={item.details.country} icon={<PiGlobeHemisphereWestLight />} />
+								<Describle title='Fabricante' text={item.details.manufacturer} icon={<MdOutlinePrecisionManufacturing />} />
+								<Describle title='Calibre' text={item.details.caliber} icon={<SlTarget />} />
+								<Describle title='Capacidade' text={item.details.capacity.toLocaleString()} icon={<GiMachineGunMagazine />} />
+								<Describle title='Peso' text={item.details.weight.toString() + ' kg'} icon={<RiWeightLine />} />
+							</>
+						)}
+
+						{'segment' in item.details && (
+							<>
+								<div className=''>
+									<Image width={400} height={300} loading='lazy' alt='' src={`/img/${item.code.toLocaleLowerCase()}.webp`} className='' />
+								</div>
+								<Describle title='Descrição' text={item.details.description} icon={<CiTextAlignCenter />} />
+								<Describle title='País' text={item.details.country} icon={<PiGlobeHemisphereWestLight />} />
+								<Describle title='Segmento' text={item.details.segment} icon={<PiLineSegmentsBold />} />
+								<Describle title='Ano' text={item.details.year.toString()} icon={<IoCalendarOutline />} />
+							</>
+						)}
 					</div>
 				</div>
 			)}

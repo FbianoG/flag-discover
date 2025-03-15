@@ -1,6 +1,6 @@
 export interface ICountry {
 	code: string;
-	country: string;
+	name: string;
 	details: {
 		population: number;
 		area: number;

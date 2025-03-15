@@ -1,7 +1,7 @@
 [
 	{
 		"code": "AD",
-		"country": "Andorra",
+		"name": "Andorra",
 		"details": {
 			"population": 79000,
 			"area": 468,
@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "AE",
-		"country": "Emirados Árabes Unidos",
+		"name": "Emirados Árabes Unidos",
 		"details": {
 			"population": 9890000,
 			"area": 83600,
@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "AF",
-		"country": "Afeganistão",
+		"name": "Afeganistão",
 		"details": {
 			"population": 38928000,
 			"area": 652230,
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "AG",
-		"country": "Antígua e Barbuda",
+		"name": "Antígua e Barbuda",
 		"details": {
 			"population": 98000,
 			"area": 442,
@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "AI",
-		"country": "Anguila",
+		"name": "Anguila",
 		"details": {
 			"population": 15000,
 			"area": 91,
@@ -61,7 +61,7 @@
 	},
 	{
 		"code": "AL",
-		"country": "Albânia",
+		"name": "Albânia",
 		"details": {
 			"population": 2878000,
 			"area": 28748,
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "AM",
-		"country": "Armênia",
+		"name": "Armênia",
 		"details": {
 			"population": 2963000,
 			"area": 29743,
@@ -85,7 +85,7 @@
 	},
 	{
 		"code": "AO",
-		"country": "Angola",
+		"name": "Angola",
 		"details": {
 			"population": 32870000,
 			"area": 1246700,
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "AQ",
-		"country": "Antártida",
+		"name": "Antártida",
 		"details": {
 			"population": 1000,
 			"area": 14000000,
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "AR",
-		"country": "Argentina",
+		"name": "Argentina",
 		"details": {
 			"population": 45380000,
 			"area": 2780400,
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "AS",
-		"country": "Samoa Americana",
+		"name": "Samoa Americana",
 		"details": {
 			"population": 55000,
 			"area": 199,
@@ -133,7 +133,7 @@
 	},
 	{
 		"code": "AT",
-		"country": "Áustria",
+		"name": "Áustria",
 		"details": {
 			"population": 8902600,
 			"area": 83871,
@@ -145,7 +145,7 @@
 	},
 	{
 		"code": "AU",
-		"country": "Austrália",
+		"name": "Austrália",
 		"details": {
 			"population": 25690000,
 			"area": 7692024,
@@ -157,7 +157,7 @@
 	},
 	{
 		"code": "AW",
-		"country": "Aruba",
+		"name": "Aruba",
 		"details": {
 			"population": 106000,
 			"area": 180,
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "AX",
-		"country": "Ilhas Åland",
+		"name": "Ilhas Åland",
 		"details": {
 			"population": 30000,
 			"area": 1580,
@@ -181,7 +181,7 @@
 	},
 	{
 		"code": "AZ",
-		"country": "Azerbaijão",
+		"name": "Azerbaijão",
 		"details": {
 			"population": 10140000,
 			"area": 86600,
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "BA",
-		"country": "Bósnia e Herzegovina",
+		"name": "Bósnia e Herzegovina",
 		"details": {
 			"population": 3280819,
 			"area": 51209,
@@ -205,7 +205,7 @@
 	},
 	{
 		"code": "BB",
-		"country": "Barbados",
+		"name": "Barbados",
 		"details": {
 			"population": 287371,
 			"area": 430,
@@ -217,7 +217,7 @@
 	},
 	{
 		"code": "BD",
-		"country": "Bangladesh",
+		"name": "Bangladesh",
 		"details": {
 			"population": 163046161,
 			"area": 147570,
@@ -229,7 +229,7 @@
 	},
 	{
 		"code": "BE",
-		"country": "Bélgica",
+		"name": "Bélgica",
 		"details": {
 			"population": 11589623,
 			"area": 30528,
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "BF",
-		"country": "Burquina Faso",
+		"name": "Burquina Faso",
 		"details": {
 			"population": 23107060,
 			"area": 272967,
@@ -253,7 +253,7 @@
 	},
 	{
 		"code": "BG",
-		"country": "Bulgária",
+		"name": "Bulgária",
 		"details": {
 			"population": 6901482,
 			"area": 110879,
@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "BH",
-		"country": "Bahrein",
+		"name": "Bahrein",
 		"details": {
 			"population": 1701583,
 			"area": 765,
@@ -277,7 +277,7 @@
 	},
 	{
 		"code": "BI",
-		"country": "Burundi",
+		"name": "Burundi",
 		"details": {
 			"population": 12717608,
 			"area": 27834,
@@ -289,7 +289,7 @@
 	},
 	{
 		"code": "BJ",
-		"country": "Benim",
+		"name": "Benim",
 		"details": {
 			"population": 12631100,
 			"area": 112622,
@@ -301,7 +301,7 @@
 	},
 	{
 		"code": "BL",
-		"country": "São Bartolomeu",
+		"name": "São Bartolomeu",
 		"details": {
 			"population": 9877,
 			"area": 25,
@@ -313,7 +313,7 @@
 	},
 	{
 		"code": "BM",
-		"country": "Bermudas",
+		"name": "Bermudas",
 		"details": {
 			"population": 64027,
 			"area": 53.3,
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "BN",
-		"country": "Brunei",
+		"name": "Brunei",
 		"details": {
 			"population": 443000,
 			"area": 5765,
@@ -337,7 +337,7 @@
 	},
 	{
 		"code": "BO",
-		"country": "Bolívia",
+		"name": "Bolívia",
 		"details": {
 			"population": 11673021,
 			"area": 1098581,
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "BQ",
-		"country": "Países Baixos Caribenhos",
+		"name": "Países Baixos Caribenhos",
 		"details": {
 			"population": 25000,
 			"area": 330,
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "BR",
-		"country": "Brasil",
+		"name": "Brasil",
 		"details": {
 			"population": 213993437,
 			"area": 8515767,
@@ -373,7 +373,7 @@
 	},
 	{
 		"code": "BS",
-		"country": "Bahamas",
+		"name": "Bahamas",
 		"details": {
 			"population": 393248,
 			"area": 13940,
@@ -385,7 +385,7 @@
 	},
 	{
 		"code": "BT",
-		"country": "Butão",
+		"name": "Butão",
 		"details": {
 			"population": 754394,
 			"area": 38394,
@@ -397,7 +397,7 @@
 	},
 	{
 		"code": "BV",
-		"country": "Ilha Bouvet",
+		"name": "Ilha Bouvet",
 		"details": {
 			"population": 0,
 			"area": 49,
@@ -409,7 +409,7 @@
 	},
 	{
 		"code": "BW",
-		"country": "Botsuana",
+		"name": "Botsuana",
 		"details": {
 			"population": 2141206,
 			"area": 581730,
@@ -421,7 +421,7 @@
 	},
 	{
 		"code": "BY",
-		"country": "Bielorrússia",
+		"name": "Bielorrússia",
 		"details": {
 			"population": 9449323,
 			"area": 207600,
@@ -433,7 +433,7 @@
 	},
 	{
 		"code": "BZ",
-		"country": "Belize",
+		"name": "Belize",
 		"details": {
 			"population": 423000,
 			"area": 22966,
@@ -445,7 +445,7 @@
 	},
 	{
 		"code": "CA",
-		"country": "Canadá",
+		"name": "Canadá",
 		"details": {
 			"population": 38008005,
 			"area": 9984670,
@@ -457,7 +457,7 @@
 	},
 	{
 		"code": "CC",
-		"country": "Ilhas Cocos (Keeling)",
+		"name": "Ilhas Cocos (Keeling)",
 		"details": {
 			"population": 600,
 			"area": 14,
@@ -469,7 +469,7 @@
 	},
 	{
 		"code": "CD",
-		"country": "República Democrática do Congo",
+		"name": "República Democrática do Congo",
 		"details": {
 			"population": 101920000,
 			"area": 2344858,
@@ -481,7 +481,7 @@
 	},
 	{
 		"code": "CF",
-		"country": "República Centro-Africana",
+		"name": "República Centro-Africana",
 		"details": {
 			"population": 4998000,
 			"area": 622984,
@@ -493,7 +493,7 @@
 	},
 	{
 		"code": "CG",
-		"country": "República do Congo",
+		"name": "República do Congo",
 		"details": {
 			"population": 4741000,
 			"area": 342000,
@@ -505,7 +505,7 @@
 	},
 	{
 		"code": "CH",
-		"country": "Suíça",
+		"name": "Suíça",
 		"details": {
 			"population": 8770000,
 			"area": 41285,
@@ -517,7 +517,7 @@
 	},
 	{
 		"code": "CI",
-		"country": "Costa do Marfim",
+		"name": "Costa do Marfim",
 		"details": {
 			"population": 26450000,
 			"area": 322463,
@@ -529,7 +529,7 @@
 	},
 	{
 		"code": "CK",
-		"country": "Ilhas Cook",
+		"name": "Ilhas Cook",
 		"details": {
 			"population": 17000,
 			"area": 236,
@@ -541,7 +541,7 @@
 	},
 	{
 		"code": "CL",
-		"country": "Chile",
+		"name": "Chile",
 		"details": {
 			"population": 19116209,
 			"area": 756102,
@@ -553,7 +553,7 @@
 	},
 	{
 		"code": "CM",
-		"country": "Camarões",
+		"name": "Camarões",
 		"details": {
 			"population": 22709892,
 			"area": 475442,
@@ -565,7 +565,7 @@
 	},
 	{
 		"code": "CN",
-		"country": "China",
+		"name": "China",
 		"details": {
 			"population": 1411778724,
 			"area": 9596961,
@@ -577,7 +577,7 @@
 	},
 	{
 		"code": "CO",
-		"country": "Colômbia",
+		"name": "Colômbia",
 		"details": {
 			"population": 50882891,
 			"area": 1141748,
@@ -589,7 +589,7 @@
 	},
 	{
 		"code": "CR",
-		"country": "Costa Rica",
+		"name": "Costa Rica",
 		"details": {
 			"population": 5094114,
 			"area": 51100,
@@ -601,7 +601,7 @@
 	},
 	{
 		"code": "CU",
-		"country": "Cuba",
+		"name": "Cuba",
 		"details": {
 			"population": 11326616,
 			"area": 109884,
@@ -613,7 +613,7 @@
 	},
 	{
 		"code": "CV",
-		"country": "Cabo Verde",
+		"name": "Cabo Verde",
 		"details": {
 			"population": 531239,
 			"area": 4033,
@@ -625,7 +625,7 @@
 	},
 	{
 		"code": "CW",
-		"country": "Curaçao",
+		"name": "Curaçao",
 		"details": {
 			"population": 164100,
 			"area": 444,
@@ -637,7 +637,7 @@
 	},
 	{
 		"code": "CX",
-		"country": "Ilha Christmas",
+		"name": "Ilha Christmas",
 		"details": {
 			"population": 1500,
 			"area": 135,
@@ -649,7 +649,7 @@
 	},
 	{
 		"code": "CY",
-		"country": "Chipre",
+		"name": "Chipre",
 		"details": {
 			"population": 1207359,
 			"area": 9251,
@@ -661,7 +661,7 @@
 	},
 	{
 		"code": "CZ",
-		"country": "República Tcheca",
+		"name": "República Tcheca",
 		"details": {
 			"population": 10649800,
 			"area": 78866,
@@ -673,7 +673,7 @@
 	},
 	{
 		"code": "DE",
-		"country": "Alemanha",
+		"name": "Alemanha",
 		"details": {
 			"population": 83166711,
 			"area": 357022,
@@ -685,7 +685,7 @@
 	},
 	{
 		"code": "DJ",
-		"country": "Djibuti",
+		"name": "Djibuti",
 		"details": {
 			"population": 900000,
 			"area": 23200,
@@ -697,7 +697,7 @@
 	},
 	{
 		"code": "DK",
-		"country": "Dinamarca",
+		"name": "Dinamarca",
 		"details": {
 			"population": 5818553,
 			"area": 42933,
@@ -709,7 +709,7 @@
 	},
 	{
 		"code": "DM",
-		"country": "Dominica",
+		"name": "Dominica",
 		"details": {
 			"population": 71808,
 			"area": 751,
@@ -721,7 +721,7 @@
 	},
 	{
 		"code": "DO",
-		"country": "República Dominicana",
+		"name": "República Dominicana",
 		"details": {
 			"population": 10847904,
 			"area": 48730,
@@ -733,7 +733,7 @@
 	},
 	{
 		"code": "DZ",
-		"country": "Argélia",
+		"name": "Argélia",
 		"details": {
 			"population": 43851044,
 			"area": 2381741,
@@ -745,7 +745,7 @@
 	},
 	{
 		"code": "EC",
-		"country": "Equador",
+		"name": "Equador",
 		"details": {
 			"population": 17300000,
 			"area": 283561,
@@ -757,7 +757,7 @@
 	},
 	{
 		"code": "EE",
-		"country": "Estônia",
+		"name": "Estônia",
 		"details": {
 			"population": 1326535,
 			"area": 45227,
@@ -769,7 +769,7 @@
 	},
 	{
 		"code": "EG",
-		"country": "Egito",
+		"name": "Egito",
 		"details": {
 			"population": 104124000,
 			"area": 1002450,
@@ -781,7 +781,7 @@
 	},
 	{
 		"code": "EH",
-		"country": "Saara Ocidental",
+		"name": "Saara Ocidental",
 		"details": {
 			"population": 500000,
 			"area": 266000,
@@ -793,7 +793,7 @@
 	},
 	{
 		"code": "ER",
-		"country": "Eritreia",
+		"name": "Eritreia",
 		"details": {
 			"population": 3500000,
 			"area": 117600,
@@ -805,7 +805,7 @@
 	},
 	{
 		"code": "ES",
-		"country": "Espanha",
+		"name": "Espanha",
 		"details": {
 			"population": 46719142,
 			"area": 505992,
@@ -817,7 +817,7 @@
 	},
 	{
 		"code": "ET",
-		"country": "Etiópia",
+		"name": "Etiópia",
 		"details": {
 			"population": 126500000,
 			"area": 1104300,
@@ -829,7 +829,7 @@
 	},
 	{
 		"code": "EU",
-		"country": "Europa",
+		"name": "Europa",
 		"details": {
 			"population": 746419440,
 			"area": 10180000,
@@ -841,7 +841,7 @@
 	},
 	{
 		"code": "FI",
-		"country": "Finlândia",
+		"name": "Finlândia",
 		"details": {
 			"population": 5540720,
 			"area": 338424,
@@ -853,7 +853,7 @@
 	},
 	{
 		"code": "FJ",
-		"country": "Fiji",
+		"name": "Fiji",
 		"details": {
 			"population": 896444,
 			"area": 18274,
@@ -865,7 +865,7 @@
 	},
 	{
 		"code": "FK",
-		"country": "Ilhas Malvinas",
+		"name": "Ilhas Malvinas",
 		"details": {
 			"population": 3000,
 			"area": 12173,
@@ -877,7 +877,7 @@
 	},
 	{
 		"code": "FM",
-		"country": "Micronésia",
+		"name": "Micronésia",
 		"details": {
 			"population": 115000,
 			"area": 702,
@@ -889,7 +889,7 @@
 	},
 	{
 		"code": "FO",
-		"country": "Ilhas Faroé",
+		"name": "Ilhas Faroé",
 		"details": {
 			"population": 53000,
 			"area": 1399,
@@ -901,7 +901,7 @@
 	},
 	{
 		"code": "FR",
-		"country": "França",
+		"name": "França",
 		"details": {
 			"population": 67364357,
 			"area": 643801,
@@ -913,7 +913,7 @@
 	},
 	{
 		"code": "GA",
-		"country": "Gabão",
+		"name": "Gabão",
 		"details": {
 			"population": 2119275,
 			"area": 267668,
@@ -925,7 +925,7 @@
 	},
 	{
 		"code": "GB-ENG",
-		"country": "Inglaterra",
+		"name": "Inglaterra",
 		"details": {
 			"population": 55980000,
 			"area": 130395,
@@ -937,7 +937,7 @@
 	},
 	{
 		"code": "GB-SCT",
-		"country": "Escócia",
+		"name": "Escócia",
 		"details": {
 			"population": 5460000,
 			"area": 77933,
@@ -949,7 +949,7 @@
 	},
 	{
 		"code": "GB-WLS",
-		"country": "País de Gales",
+		"name": "País de Gales",
 		"details": {
 			"population": 3152879,
 			"area": 20779,
@@ -961,7 +961,7 @@
 	},
 	{
 		"code": "GB",
-		"country": "Reino Unido",
+		"name": "Reino Unido",
 		"details": {
 			"population": 68100000,
 			"area": 243610,
@@ -973,7 +973,7 @@
 	},
 	{
 		"code": "GD",
-		"country": "Granada",
+		"name": "Granada",
 		"details": {
 			"population": 112523,
 			"area": 344,
@@ -985,7 +985,7 @@
 	},
 	{
 		"code": "GE",
-		"country": "Geórgia",
+		"name": "Geórgia",
 		"details": {
 			"population": 3989167,
 			"area": 69700,
@@ -997,7 +997,7 @@
 	},
 	{
 		"code": "GG",
-		"country": "Guernsey",
+		"name": "Guernsey",
 		"details": {
 			"population": 62999,
 			"area": 78,
@@ -1009,7 +1009,7 @@
 	},
 	{
 		"code": "GH",
-		"country": "Gana",
+		"name": "Gana",
 		"details": {
 			"population": 31300000,
 			"area": 238533,
@@ -1021,7 +1021,7 @@
 	},
 	{
 		"code": "GI",
-		"country": "Gibraltar",
+		"name": "Gibraltar",
 		"details": {
 			"population": 34000,
 			"area": 6.7,
@@ -1033,7 +1033,7 @@
 	},
 	{
 		"code": "GL",
-		"country": "Gronelândia",
+		"name": "Gronelândia",
 		"details": {
 			"population": 56000,
 			"area": 2166086,
@@ -1045,7 +1045,7 @@
 	},
 	{
 		"code": "GM",
-		"country": "Gâmbia",
+		"name": "Gâmbia",
 		"details": {
 			"population": 2340000,
 			"area": 11295,
@@ -1057,7 +1057,7 @@
 	},
 	{
 		"code": "GN",
-		"country": "Guiné",
+		"name": "Guiné",
 		"details": {
 			"population": 13000000,
 			"area": 245857,
@@ -1069,7 +1069,7 @@
 	},
 	{
 		"code": "GQ",
-		"country": "Guiné Equatorial",
+		"name": "Guiné Equatorial",
 		"details": {
 			"population": 1402985,
 			"area": 28051,
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"code": "GR",
-		"country": "Grécia",
+		"name": "Grécia",
 		"details": {
 			"population": 10700000,
 			"area": 131957,
@@ -1093,7 +1093,7 @@
 	},
 	{
 		"code": "GS",
-		"country": "Geórgia do Sul",
+		"name": "Geórgia do Sul",
 		"details": {
 			"population": 30,
 			"area": 3903,
@@ -1105,7 +1105,7 @@
 	},
 	{
 		"code": "GT",
-		"country": "Guatemala",
+		"name": "Guatemala",
 		"details": {
 			"population": 18300000,
 			"area": 108889,
@@ -1117,7 +1117,7 @@
 	},
 	{
 		"code": "GU",
-		"country": "Guam",
+		"name": "Guam",
 		"details": {
 			"population": 168000,
 			"area": 544,
@@ -1129,7 +1129,7 @@
 	},
 	{
 		"code": "GW",
-		"country": "Guiné-Bissau",
+		"name": "Guiné-Bissau",
 		"details": {
 			"population": 2000000,
 			"area": 36125,
@@ -1141,7 +1141,7 @@
 	},
 	{
 		"code": "GY",
-		"country": "Guiana",
+		"name": "Guiana",
 		"details": {
 			"population": 786000,
 			"area": 214969,
@@ -1153,7 +1153,7 @@
 	},
 	{
 		"code": "HK",
-		"country": "Hong Kong",
+		"name": "Hong Kong",
 		"details": {
 			"population": 7500000,
 			"area": 1106,
@@ -1165,7 +1165,7 @@
 	},
 	{
 		"code": "HM",
-		"country": "Ilha Heard e Ilhas McDonald",
+		"name": "Ilha Heard e Ilhas McDonald",
 		"details": {
 			"population": 0,
 			"area": 364,
@@ -1177,7 +1177,7 @@
 	},
 	{
 		"code": "HN",
-		"country": "Honduras",
+		"name": "Honduras",
 		"details": {
 			"population": 9904607,
 			"area": 112492,
@@ -1189,7 +1189,7 @@
 	},
 	{
 		"code": "HR",
-		"country": "Croácia",
+		"name": "Croácia",
 		"details": {
 			"population": 4105267,
 			"area": 56594,
@@ -1201,7 +1201,7 @@
 	},
 	{
 		"code": "HT",
-		"country": "Haiti",
+		"name": "Haiti",
 		"details": {
 			"population": 11300000,
 			"area": 27750,
@@ -1213,7 +1213,7 @@
 	},
 	{
 		"code": "HU",
-		"country": "Hungria",
+		"name": "Hungria",
 		"details": {
 			"population": 9668000,
 			"area": 93030,
@@ -1225,7 +1225,7 @@
 	},
 	{
 		"code": "ID",
-		"country": "Indonésia",
+		"name": "Indonésia",
 		"details": {
 			"population": 276361783,
 			"area": 1904569,
@@ -1237,7 +1237,7 @@
 	},
 	{
 		"code": "IE",
-		"country": "Irlanda",
+		"name": "Irlanda",
 		"details": {
 			"population": 4937786,
 			"area": 70273,
@@ -1249,7 +1249,7 @@
 	},
 	{
 		"code": "IL",
-		"country": "Israel",
+		"name": "Israel",
 		"details": {
 			"population": 9440000,
 			"area": 22072,
@@ -1261,7 +1261,7 @@
 	},
 	{
 		"code": "IM",
-		"country": "Ilha de Man",
+		"name": "Ilha de Man",
 		"details": {
 			"population": 85000,
 			"area": 572,
@@ -1273,7 +1273,7 @@
 	},
 	{
 		"code": "IN",
-		"country": "Índia",
+		"name": "Índia",
 		"details": {
 			"population": 1393409038,
 			"area": 3287263,
@@ -1285,7 +1285,7 @@
 	},
 	{
 		"code": "IO",
-		"country": "Território Britânico do Oceano Índico",
+		"name": "Território Britânico do Oceano Índico",
 		"details": {
 			"population": 3000,
 			"area": 60,
@@ -1297,7 +1297,7 @@
 	},
 	{
 		"code": "IQ",
-		"country": "Iraque",
+		"name": "Iraque",
 		"details": {
 			"population": 40222493,
 			"area": 438317,
@@ -1309,7 +1309,7 @@
 	},
 	{
 		"code": "IR",
-		"country": "Irã",
+		"name": "Irã",
 		"details": {
 			"population": 83992953,
 			"area": 1648195,
@@ -1321,7 +1321,7 @@
 	},
 	{
 		"code": "IS",
-		"country": "Islândia",
+		"name": "Islândia",
 		"details": {
 			"population": 356991,
 			"area": 103000,
@@ -1333,7 +1333,7 @@
 	},
 	{
 		"code": "IT",
-		"country": "Itália",
+		"name": "Itália",
 		"details": {
 			"population": 60244639,
 			"area": 301340,
@@ -1345,7 +1345,7 @@
 	},
 	{
 		"code": "JE",
-		"country": "Jersey",
+		"name": "Jersey",
 		"details": {
 			"population": 108000,
 			"area": 46.2,
@@ -1357,7 +1357,7 @@
 	},
 	{
 		"code": "JM",
-		"country": "Jamaica",
+		"name": "Jamaica",
 		"details": {
 			"population": 2961161,
 			"area": 10991,
@@ -1369,7 +1369,7 @@
 	},
 	{
 		"code": "JO",
-		"country": "Jordânia",
+		"name": "Jordânia",
 		"details": {
 			"population": 10203140,
 			"area": 89342,
@@ -1381,7 +1381,7 @@
 	},
 	{
 		"code": "JP",
-		"country": "Japão",
+		"name": "Japão",
 		"details": {
 			"population": 126800000,
 			"area": 377975,
@@ -1393,7 +1393,7 @@
 	},
 	{
 		"code": "KE",
-		"country": "Quênia",
+		"name": "Quênia",
 		"details": {
 			"population": 53771296,
 			"area": 580367,
@@ -1405,7 +1405,7 @@
 	},
 	{
 		"code": "KG",
-		"country": "Quirguistão",
+		"name": "Quirguistão",
 		"details": {
 			"population": 6270000,
 			"area": 199951,
@@ -1417,7 +1417,7 @@
 	},
 	{
 		"code": "KH",
-		"country": "Camboja",
+		"name": "Camboja",
 		"details": {
 			"population": 16900000,
 			"area": 181035,
@@ -1429,7 +1429,7 @@
 	},
 	{
 		"code": "KI",
-		"country": "Kiribati",
+		"name": "Kiribati",
 		"details": {
 			"population": 119500,
 			"area": 811,
@@ -1441,7 +1441,7 @@
 	},
 	{
 		"code": "KM",
-		"country": "Comores",
+		"name": "Comores",
 		"details": {
 			"population": 806153,
 			"area": 2235,
@@ -1453,7 +1453,7 @@
 	},
 	{
 		"code": "KN",
-		"country": "São Cristóvão e Neves",
+		"name": "São Cristóvão e Neves",
 		"details": {
 			"population": 55000,
 			"area": 261,
@@ -1465,7 +1465,7 @@
 	},
 	{
 		"code": "KP",
-		"country": "Coreia do Norte",
+		"name": "Coreia do Norte",
 		"details": {
 			"population": 25778815,
 			"area": 120538,
@@ -1477,7 +1477,7 @@
 	},
 	{
 		"code": "KR",
-		"country": "Coreia do Sul",
+		"name": "Coreia do Sul",
 		"details": {
 			"population": 51329899,
 			"area": 100032,
@@ -1489,7 +1489,7 @@
 	},
 	{
 		"code": "KW",
-		"country": "Kuwait",
+		"name": "Kuwait",
 		"details": {
 			"population": 4270563,
 			"area": 17818,
@@ -1501,7 +1501,7 @@
 	},
 	{
 		"code": "KY",
-		"country": "Ilhas Cayman",
+		"name": "Ilhas Cayman",
 		"details": {
 			"population": 65000,
 			"area": 264,
@@ -1513,7 +1513,7 @@
 	},
 	{
 		"code": "KZ",
-		"country": "Cazaquistão",
+		"name": "Cazaquistão",
 		"details": {
 			"population": 18776707,
 			"area": 2724900,
@@ -1525,7 +1525,7 @@
 	},
 	{
 		"code": "LA",
-		"country": "Laos",
+		"name": "Laos",
 		"details": {
 			"population": 7275560,
 			"area": 237955,
@@ -1537,7 +1537,7 @@
 	},
 	{
 		"code": "LB",
-		"country": "Líbano",
+		"name": "Líbano",
 		"details": {
 			"population": 6825445,
 			"area": 10452,
@@ -1549,7 +1549,7 @@
 	},
 	{
 		"code": "LC",
-		"country": "Santa Lúcia",
+		"name": "Santa Lúcia",
 		"details": {
 			"population": 183000,
 			"area": 616,
@@ -1561,7 +1561,7 @@
 	},
 	{
 		"code": "LI",
-		"country": "Liechtenstein",
+		"name": "Liechtenstein",
 		"details": {
 			"population": 38128,
 			"area": 160,
@@ -1573,7 +1573,7 @@
 	},
 	{
 		"code": "LK",
-		"country": "Sri Lanka",
+		"name": "Sri Lanka",
 		"details": {
 			"population": 21803000,
 			"area": 65610,
@@ -1585,7 +1585,7 @@
 	},
 	{
 		"code": "LR",
-		"country": "Libéria",
+		"name": "Libéria",
 		"details": {
 			"population": 5057681,
 			"area": 111369,
@@ -1597,7 +1597,7 @@
 	},
 	{
 		"code": "LS",
-		"country": "Lesoto",
+		"name": "Lesoto",
 		"details": {
 			"population": 2142249,
 			"area": 30355,
@@ -1609,7 +1609,7 @@
 	},
 	{
 		"code": "LT",
-		"country": "Lituânia",
+		"name": "Lituânia",
 		"details": {
 			"population": 2722289,
 			"area": 65300,
@@ -1621,7 +1621,7 @@
 	},
 	{
 		"code": "LU",
-		"country": "Luxemburgo",
+		"name": "Luxemburgo",
 		"details": {
 			"population": 645000,
 			"area": 2586,
@@ -1633,7 +1633,7 @@
 	},
 	{
 		"code": "LV",
-		"country": "Letônia",
+		"name": "Letônia",
 		"details": {
 			"population": 1886198,
 			"area": 64559,
@@ -1645,7 +1645,7 @@
 	},
 	{
 		"code": "LY",
-		"country": "Líbia",
+		"name": "Líbia",
 		"details": {
 			"population": 6871297,
 			"area": 1759540,
@@ -1657,7 +1657,7 @@
 	},
 	{
 		"code": "MA",
-		"country": "Marrocos",
+		"name": "Marrocos",
 		"details": {
 			"population": 36910560,
 			"area": 710850,
@@ -1669,7 +1669,7 @@
 	},
 	{
 		"code": "MC",
-		"country": "Mônaco",
+		"name": "Mônaco",
 		"details": {
 			"population": 38000,
 			"area": 2.02,
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"code": "MD",
-		"country": "Moldávia",
+		"name": "Moldávia",
 		"details": {
 			"population": 2657637,
 			"area": 33846,
@@ -1693,7 +1693,7 @@
 	},
 	{
 		"code": "ME",
-		"country": "Montenegro",
+		"name": "Montenegro",
 		"details": {
 			"population": 622359,
 			"area": 13812,
@@ -1705,7 +1705,7 @@
 	},
 	{
 		"code": "MF",
-		"country": "São Martinho",
+		"name": "São Martinho",
 		"details": {
 			"population": 38659,
 			"area": 53.2,
@@ -1717,7 +1717,7 @@
 	},
 	{
 		"code": "MG",
-		"country": "Madagáscar",
+		"name": "Madagáscar",
 		"details": {
 			"population": 27691018,
 			"area": 587041,
@@ -1729,7 +1729,7 @@
 	},
 	{
 		"code": "MH",
-		"country": "Ilhas Marshall",
+		"name": "Ilhas Marshall",
 		"details": {
 			"population": 53000,
 			"area": 181,
@@ -1741,7 +1741,7 @@
 	},
 	{
 		"code": "MK",
-		"country": "Macedônia do Norte",
+		"name": "Macedônia do Norte",
 		"details": {
 			"population": 2083459,
 			"area": 25713,
@@ -1753,7 +1753,7 @@
 	},
 	{
 		"code": "ML",
-		"country": "Mali",
+		"name": "Mali",
 		"details": {
 			"population": 20373000,
 			"area": 1240192,
@@ -1765,7 +1765,7 @@
 	},
 	{
 		"code": "MM",
-		"country": "Mianmar",
+		"name": "Mianmar",
 		"details": {
 			"population": 54600000,
 			"area": 676578,
@@ -1777,7 +1777,7 @@
 	},
 	{
 		"code": "MN",
-		"country": "Mongólia",
+		"name": "Mongólia",
 		"details": {
 			"population": 3300000,
 			"area": 1564116,
@@ -1789,7 +1789,7 @@
 	},
 	{
 		"code": "MO",
-		"country": "Macau",
+		"name": "Macau",
 		"details": {
 			"population": 680000,
 			"area": 30.3,
@@ -1801,7 +1801,7 @@
 	},
 	{
 		"code": "MP",
-		"country": "Ilhas Marianas do Norte",
+		"name": "Ilhas Marianas do Norte",
 		"details": {
 			"population": 55000,
 			"area": 464,
@@ -1813,7 +1813,7 @@
 	},
 	{
 		"code": "MQ",
-		"country": "Martinica",
+		"name": "Martinica",
 		"details": {
 			"population": 376480,
 			"area": 1128,
@@ -1825,7 +1825,7 @@
 	},
 	{
 		"code": "MR",
-		"country": "Mauritânia",
+		"name": "Mauritânia",
 		"details": {
 			"population": 4480000,
 			"area": 1030700,
@@ -1837,7 +1837,7 @@
 	},
 	{
 		"code": "MS",
-		"country": "Montserrat",
+		"name": "Montserrat",
 		"details": {
 			"population": 5000,
 			"area": 102,
@@ -1849,7 +1849,7 @@
 	},
 	{
 		"code": "MT",
-		"country": "Malta",
+		"name": "Malta",
 		"details": {
 			"population": 514064,
 			"area": 316,
@@ -1861,7 +1861,7 @@
 	},
 	{
 		"code": "MU",
-		"country": "Maurício",
+		"name": "Maurício",
 		"details": {
 			"population": 1271768,
 			"area": 2040,
@@ -1873,7 +1873,7 @@
 	},
 	{
 		"code": "MV",
-		"country": "Maldivas",
+		"name": "Maldivas",
 		"details": {
 			"population": 392040,
 			"area": 298,
@@ -1885,7 +1885,7 @@
 	},
 	{
 		"code": "MW",
-		"country": "Malaui",
+		"name": "Malaui",
 		"details": {
 			"population": 19784000,
 			"area": 118484,
@@ -1897,7 +1897,7 @@
 	},
 	{
 		"code": "MX",
-		"country": "México",
+		"name": "México",
 		"details": {
 			"population": 126190788,
 			"area": 1964375,
@@ -1909,7 +1909,7 @@
 	},
 	{
 		"code": "MY",
-		"country": "Malásia",
+		"name": "Malásia",
 		"details": {
 			"population": 32000000,
 			"area": 330803,
@@ -1921,7 +1921,7 @@
 	},
 	{
 		"code": "MZ",
-		"country": "Moçambique",
+		"name": "Moçambique",
 		"details": {
 			"population": 31255435,
 			"area": 801590,
@@ -1933,7 +1933,7 @@
 	},
 	{
 		"code": "NA",
-		"country": "Namíbia",
+		"name": "Namíbia",
 		"details": {
 			"population": 2586800,
 			"area": 825615,
@@ -1945,7 +1945,7 @@
 	},
 	{
 		"code": "NE",
-		"country": "Níger",
+		"name": "Níger",
 		"details": {
 			"population": 22400000,
 			"area": 1267000,
@@ -1957,7 +1957,7 @@
 	},
 	{
 		"code": "NF",
-		"country": "Ilha Norfolk",
+		"name": "Ilha Norfolk",
 		"details": {
 			"population": 2300,
 			"area": 36.6,
@@ -1969,7 +1969,7 @@
 	},
 	{
 		"code": "NG",
-		"country": "Nigéria",
+		"name": "Nigéria",
 		"details": {
 			"population": 206139589,
 			"area": 923768,
@@ -1981,7 +1981,7 @@
 	},
 	{
 		"code": "NI",
-		"country": "Nicarágua",
+		"name": "Nicarágua",
 		"details": {
 			"population": 6262700,
 			"area": 130375,
@@ -1993,7 +1993,7 @@
 	},
 	{
 		"code": "NL",
-		"country": "Países Baixos",
+		"name": "Países Baixos",
 		"details": {
 			"population": 17019800,
 			"area": 41850,
@@ -2005,7 +2005,7 @@
 	},
 	{
 		"code": "NO",
-		"country": "Noruega",
+		"name": "Noruega",
 		"details": {
 			"population": 5311916,
 			"area": 148729,
@@ -2017,7 +2017,7 @@
 	},
 	{
 		"code": "NP",
-		"country": "Nepal",
+		"name": "Nepal",
 		"details": {
 			"population": 29950000,
 			"area": 147181,
@@ -2029,7 +2029,7 @@
 	},
 	{
 		"code": "NR",
-		"country": "Nauru",
+		"name": "Nauru",
 		"details": {
 			"population": 10000,
 			"area": 21,
@@ -2041,7 +2041,7 @@
 	},
 	{
 		"code": "NU",
-		"country": "Niue",
+		"name": "Niue",
 		"details": {
 			"population": 1600,
 			"area": 260,
@@ -2053,7 +2053,7 @@
 	},
 	{
 		"code": "NZ",
-		"country": "Nova Zelândia",
+		"name": "Nova Zelândia",
 		"details": {
 			"population": 5084300,
 			"area": 268021,
@@ -2065,7 +2065,7 @@
 	},
 	{
 		"code": "OM",
-		"country": "Omã",
+		"name": "Omã",
 		"details": {
 			"population": 5106622,
 			"area": 309500,
@@ -2077,7 +2077,7 @@
 	},
 	{
 		"code": "PA",
-		"country": "Panamá",
+		"name": "Panamá",
 		"details": {
 			"population": 4314768,
 			"area": 75417,
@@ -2089,7 +2089,7 @@
 	},
 	{
 		"code": "PE",
-		"country": "Peru",
+		"name": "Peru",
 		"details": {
 			"population": 31879700,
 			"area": 1285216,
@@ -2101,7 +2101,7 @@
 	},
 	{
 		"code": "PF",
-		"country": "Polinésia Francesa",
+		"name": "Polinésia Francesa",
 		"details": {
 			"population": 280000,
 			"area": 4167,
@@ -2113,7 +2113,7 @@
 	},
 	{
 		"code": "PG",
-		"country": "Papua-Nova Guiné",
+		"name": "Papua-Nova Guiné",
 		"details": {
 			"population": 8800000,
 			"area": 462840,
@@ -2125,7 +2125,7 @@
 	},
 	{
 		"code": "PH",
-		"country": "Filipinas",
+		"name": "Filipinas",
 		"details": {
 			"population": 113000000,
 			"area": 300000,
@@ -2137,7 +2137,7 @@
 	},
 	{
 		"code": "PK",
-		"country": "Paquistão",
+		"name": "Paquistão",
 		"details": {
 			"population": 229000000,
 			"area": 881913,
@@ -2149,7 +2149,7 @@
 	},
 	{
 		"code": "PL",
-		"country": "Polônia",
+		"name": "Polônia",
 		"details": {
 			"population": 38386000,
 			"area": 312696,
@@ -2161,7 +2161,7 @@
 	},
 	{
 		"code": "PT",
-		"country": "Portugal",
+		"name": "Portugal",
 		"details": {
 			"population": 10196709,
 			"area": 92090,
@@ -2173,7 +2173,7 @@
 	},
 	{
 		"code": "PY",
-		"country": "Paraguai",
+		"name": "Paraguai",
 		"details": {
 			"population": 7100000,
 			"area": 406750,
@@ -2185,7 +2185,7 @@
 	},
 	{
 		"code": "QA",
-		"country": "Catar",
+		"name": "Catar",
 		"details": {
 			"population": 2770000,
 			"area": 11571,
@@ -2197,7 +2197,7 @@
 	},
 	{
 		"code": "RO",
-		"country": "Romênia",
+		"name": "Romênia",
 		"details": {
 			"population": 19237691,
 			"area": 238397,
@@ -2209,7 +2209,7 @@
 	},
 	{
 		"code": "RU",
-		"country": "Rússia",
+		"name": "Rússia",
 		"details": {
 			"population": 146599183,
 			"area": 17098242,
@@ -2221,7 +2221,7 @@
 	},
 	{
 		"code": "SA",
-		"country": "Arábia Saudita",
+		"name": "Arábia Saudita",
 		"details": {
 			"population": 34813867,
 			"area": 2149690,
@@ -2233,7 +2233,7 @@
 	},
 	{
 		"code": "SE",
-		"country": "Suécia",
+		"name": "Suécia",
 		"details": {
 			"population": 10327589,
 			"area": 450295,
@@ -2245,7 +2245,7 @@
 	},
 	{
 		"code": "SG",
-		"country": "Singapura",
+		"name": "Singapura",
 		"details": {
 			"population": 5635000,
 			"area": 728.6,
@@ -2257,7 +2257,7 @@
 	},
 	{
 		"code": "TH",
-		"country": "Tailândia",
+		"name": "Tailândia",
 		"details": {
 			"population": 70000000,
 			"area": 513120,
@@ -2269,7 +2269,7 @@
 	},
 	{
 		"code": "TR",
-		"country": "Turquia",
+		"name": "Turquia",
 		"details": {
 			"population": 83000000,
 			"area": 783356,
@@ -2281,7 +2281,7 @@
 	},
 	{
 		"code": "UA",
-		"country": "Ucrânia",
+		"name": "Ucrânia",
 		"details": {
 			"population": 41700000,
 			"area": 603550,
@@ -2293,7 +2293,7 @@
 	},
 	{
 		"code": "US",
-		"country": "Estados Unidos",
+		"name": "Estados Unidos",
 		"details": {
 			"population": 331000000,
 			"area": 9833517,
@@ -2305,7 +2305,7 @@
 	},
 	{
 		"code": "UY",
-		"country": "Uruguai",
+		"name": "Uruguai",
 		"details": {
 			"population": 3500000,
 			"area": 176215,
@@ -2317,7 +2317,7 @@
 	},
 	{
 		"code": "VE",
-		"country": "Venezuela",
+		"name": "Venezuela",
 		"details": {
 			"population": 28000000,
 			"area": 916445,
@@ -2329,7 +2329,7 @@
 	},
 	{
 		"code": "VN",
-		"country": "Vietnã",
+		"name": "Vietnã",
 		"details": {
 			"population": 96000000,
 			"area": 331210,
@@ -2341,7 +2341,7 @@
 	},
 	{
 		"code": "ZA",
-		"country": "África do Sul",
+		"name": "África do Sul",
 		"details": {
 			"population": 60000000,
 			"area": 1219090,
@@ -2353,7 +2353,7 @@
 	},
 	{
 		"code": "ZM",
-		"country": "Zâmbia",
+		"name": "Zâmbia",
 		"details": {
 			"population": 19000000,
 			"area": 752612,
@@ -2365,7 +2365,7 @@
 	},
 	{
 		"code": "ZW",
-		"country": "Zimbábue",
+		"name": "Zimbábue",
 		"details": {
 			"population": 15000000,
 			"area": 390757,

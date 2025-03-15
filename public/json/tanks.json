@@ -1,0 +1,142 @@
+[
+    {
+      "name": "M1 Abrams",
+      "type": "MBT",
+      "country": "EUA",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 68000,
+      "year": 1980,
+      "description": "Um dos tanques mais avançados do mundo, conhecido por sua blindagem e poder de fogo."
+    },
+    {
+      "name": "Leopard 2",
+      "type": "MBT",
+      "country": "Alemanha",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 62000,
+      "year": 1979,
+      "description": "Tanque alemão altamente eficaz, amplamente utilizado em diversos países."
+    },
+    {
+      "name": "T-90",
+      "type": "MBT",
+      "country": "Rússia",
+      "caliber": "125mm",
+      "crew": 3,
+      "weight": 48000,
+      "year": 1992,
+      "description": "Tanque russo moderno, com boa mobilidade e poder de fogo."
+    },
+    {
+      "name": "Challenger 2",
+      "type": "MBT",
+      "country": "Reino Unido",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 62500,
+      "year": 1998,
+      "description": "Tanque britânico com excelente blindagem e precisão de tiro."
+    },
+    {
+      "name": "Merkava IV",
+      "type": "MBT",
+      "country": "Israel",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 65000,
+      "year": 2004,
+      "description": "Tanque israelense projetado para alta capacidade de sobrevivência da crew."
+    },
+    {
+      "name": "Type 99",
+      "type": "MBT",
+      "country": "China",
+      "caliber": "125mm",
+      "crew": 3,
+      "weight": 58000,
+      "year": 2001,
+      "description": "Tanque chinês moderno, com avançada tecnologia de blindagem e armamento."
+    },
+    {
+      "name": "K2 Black Panther",
+      "type": "MBT",
+      "country": "Coreia do Sul",
+      "caliber": "120mm",
+      "crew": 3,
+      "weight": 55000,
+      "year": 2014,
+      "description": "Tanque sul-coreano com alta mobilidade e tecnologia de ponta."
+    },
+    {
+      "name": "Leclerc",
+      "type": "MBT",
+      "country": "França",
+      "caliber": "120mm",
+      "crew": 3,
+      "weight": 56000,
+      "year": 1992,
+      "description": "Tanque francês com sistema de controle de tiro avançado e alta velocidade."
+    },
+    {
+      "name": "Ariete C1",
+      "type": "MBT",
+      "country": "Itália",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 54000,
+      "year": 1995,
+      "description": "Tanque italiano com boa blindagem e poder de fogo."
+    },
+    {
+      "name": "Altay",
+      "type": "MBT",
+      "country": "Turquia",
+      "caliber": "120mm",
+      "crew": 4,
+      "weight": 65000,
+      "year": 2023,
+      "description": "Tanque turco de última geração, com alta proteção e capacidade de combate."
+    },
+     {
+      "name": "T-14 Armata",
+      "type": "MBT",
+      "country": "Rússia",
+      "caliber": "125mm",
+      "crew": 3,
+      "weight": 48000,
+      "year": 2015,
+      "description": "Tanque russo de nova geração com torre não tripulada e alta tecnologia."
+    },
+    {
+      "name": "M60 Patton",
+      "type": "MBT",
+      "country": "EUA",
+      "caliber": "105mm",
+      "crew": 4,
+      "weight": 52600,
+      "year": 1960,
+      "description": "Tanque americano da Guerra Fria, ainda em uso em alguns países."
+    },
+     {
+      "name": "Centurion",
+      "type": "MBT",
+      "country": "Reino Unido",
+      "caliber": "105mm",
+      "crew": 4,
+      "weight": 51820,
+      "year": 1945,
+      "description": "Tanque britânico clássico, usado em diversos conflitos e ainda em serviço em alguns países."
+    },
+     {
+      "name": "AMX-56 Leclerc",
+      "type": "MBT",
+      "country": "França",
+      "caliber": "120mm",
+      "crew": 3,
+      "weight": 56000,
+      "year": 1992,
+      "description": "Tanque francês moderno com alta mobilidade e tecnologia avançada."
+    }
+  ]
