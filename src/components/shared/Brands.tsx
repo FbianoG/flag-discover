@@ -122,8 +122,8 @@ const Brands = () => {
 			</div>
 
 			<div className='mt-4 flex flex-col gap-3'>
-				{pastBrands.length < 25 &&
-					options?.map((option, index) => <Option key={option.code} index={index} option={option} handleSelect={handleSelect} loading={loading} />)}
+				{pastBrands.length < 25 && currentBrand &&
+					options?.map((option, index) => <Option key={option.code} index={index} option={option} handleSelect={handleSelect} loading={loading} correct={currentBrand} />)}
 			</div>
 
 			{pastBrands.length > 24 && (

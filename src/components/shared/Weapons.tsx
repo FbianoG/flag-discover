@@ -108,8 +108,8 @@ const Weapons = () => {
 			</div>
 
 			<div className='mt-4 flex flex-col gap-3'>
-				{pastWeapons.length < 25 &&
-					options?.map((option, index) => <Option key={option.code} index={index} option={option as IWeapon} handleSelect={handleSelect} loading={loading} />)}
+				{pastWeapons.length < 25 && currentWeapon &&
+					options?.map((option, index) => <Option key={option.code} index={index} option={option as IWeapon} handleSelect={handleSelect} loading={loading} correct={currentWeapon} />)}
 			</div>
 		</div>
 	);
