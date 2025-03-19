@@ -42,10 +42,10 @@ const SideListItem = ({ item }: Props) => {
 		<li
 			onMouseEnter={() => setShowDetails(true)}
 			onMouseLeave={() => setShowDetails(false)}
-			className='hover:border-border group cursor-default border-b border-transparent bg-white p-1 duration-300'>
+			className='hover:border-border group cursor-default border-b border-transparent text-slate-300 p-1 duration-300'>
 			<p className='duration-300 group-hover:opacity-70'>{item.name}</p>
 			{showDetails && (
-				<div className='absolute top-0 left-full h-screen w-[50dvw] overflow-y-auto bg-white p-4 shadow md:w-72'>
+				<div className='absolute top-0 left-full h-screen w-[50dvw] overflow-y-auto bg-slate-800 p-4 shadow md:w-72'>
 					<h5 className='text-primary text-center text-lg'>Detalhes</h5>
 
 					<h5 className='mx-auto my-4 w-max max-w-full text-center font-medium underline underline-offset-2'>{item.name}</h5>

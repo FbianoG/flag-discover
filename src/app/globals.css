@@ -25,9 +25,9 @@
 	--input: oklch(0.6 0.1 261);
 	--ring: oklch(0.7 0.25 261);
 	--radius: 0.5rem;
-  }
-  
-  .dark {
+}
+
+.dark {
 	--background: oklch(0.2 0.05 261);
 	--foreground: oklch(1 0 261);
 	--card: oklch(0.2 0 261);
@@ -48,8 +48,8 @@
 	--input: oklch(0.6 0.1 261);
 	--ring: oklch(0.7 0.25 261);
 	--radius: 0.5rem;
-  }
-  
+}
+
 
 
 @theme inline {
@@ -99,4 +99,22 @@
 	body {
 		@apply bg-background text-foreground;
 	}
+
+	@keyframes scroll-bg {
+		0% {
+			background-position: 0 0;
+		}
+
+		50% {
+			background-position: -50% 0;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+
+	.animate-scroll-bg {
+		animation: scroll-bg 30s linear infinite;
+	}
+
 }

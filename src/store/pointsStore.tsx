@@ -5,6 +5,7 @@ type State = {
 	incorrect: number;
 	setCorrect: () => void;
 	setIncorrect: () => void;
+	setClear: () => void;
 };
 
 const usePointsStore = create<State>((set) => ({
@@ -12,6 +13,7 @@ const usePointsStore = create<State>((set) => ({
 	incorrect: 0,
 	setCorrect: () => set((state) => ({ correct: state.correct + 1 })),
 	setIncorrect: () => set((state) => ({ incorrect: state.incorrect + 1 })),
+	setClear: () => set({ correct: 0, incorrect: 0 }),
 }));
 
 export default usePointsStore;

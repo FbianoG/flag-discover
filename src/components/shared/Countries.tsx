@@ -23,6 +23,8 @@ const Countries = () => {
 
 	const [loading, setLoading] = useState<boolean>(false);
 
+	const { setClear } = usePointsStore();
+
 	useEffect(() => {
 		(async () => {
 			const response = await fetch('/json/countries.json');
@@ -31,6 +33,14 @@ const Countries = () => {
 			setCountries(sortData);
 		})();
 		// eslint-disable-next-line react-hooks/exhaustive-deps
+		return () => {
+			setPastCountries([]);
+			setCurrentCountry(undefined);
+			setOptions(undefined);
+			setLoading(false);
+			setCountries(undefined);
+			setClear();
+		};
 	}, []);
 
 	useEffect(() => {
@@ -101,6 +111,7 @@ const Countries = () => {
 
 			<Points />
 
+
 			{pastCountries.length <= 24 && (
 				<div className='grid h-[300px] place-items-center'>
 					<div className='rounded border bg-white'>
@@ -117,13 +128,18 @@ const Countries = () => {
 				</div>
 			)}
 
-			<div className='rounded border bg-white p-1 md:p-4'>
-				<h2 className='text-primary text-center text-lg md:text-2xl'>{pastCountries.length <= 24 ? 'Qual o país corresponde a essa bandeira?' : 'Fim do jogo'}</h2>
+			<div className='md:p-4'>
+				<h2 className='text-center text-lg font-medium text-slate-400 md:text-2xl'>
+					{pastCountries.length <= 24 ? 'Qual o país corresponde a essa bandeira?' : 'Fim do jogo'}
+				</h2>
 			</div>
 
 			<div className='mt-4 flex flex-col gap-3'>
 				{pastCountries.length <= 24 &&
-					options?.map((option, index) => <Option key={option.code} index={index} option={option} handleSelect={handleSelect} loading={loading} />)}
+					currentCountry &&
+					options?.map((option, index) => (
+						<Option key={option.code} index={index} option={option} handleSelect={handleSelect} loading={loading} correct={currentCountry} />
+					))}
 			</div>
 
 			{pastCountries.length > 24 && (
